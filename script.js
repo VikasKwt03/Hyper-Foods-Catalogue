@@ -26,7 +26,6 @@ const products = [
     price: "₹599",
     description: "Description : Black Pepper Cashews 125gm and Peri Peri Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965329/DSC-1577_copy_w0vyrw.jpg",
-    link: "https://www.rawfruit.com/products/dry-fruits-gift-pack",
     weight: "Product Net Weight : 250gm",
     sku: "SKU : RF-PET-PK02-BpcPpa-SMALL"
   },
