@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyper Foods Catalogue</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="frame"></div>
+
+<header>
+  <div class="container nav">
+    <div class="brand">RAWFRUIT® COLLECTION</div>
+    <div class="nav-links">
+      <a href="#name">The Name</a>
+      <a href="#theme">Theme</a>
+      <a href="#language">Brand Copy</a>
+      <a href="#catalog">Products</a>
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <div class="eyebrow">RAWFRUIT® • New Collection • Launch Kit 2026</div>
+    <h1>The<br><span class="gold">Darbar</span><br>Collection</h1>
+    <div class="hero-sub">World Dry Fruits • Carpet-Craft Luxury • Pet Jar Series</div>
+    <div class="divider"></div>
+    <p>A complete creative and content kit for your most premium product launch yet.</p>
+  </div>
+</section>
+
+<section id="name">
+  <div class="container">
+    <div class="section-label">Why “Darbar”</div>
+    <h2 class="section-title">A Name That Carries Weight</h2>
+    <div class="grid-2">
+      <div class="card"><h4>What “Darbar” Signals</h4><p>Royalty, heritage and globally sourced gifting.</p></div>
+      <div class="card"><h4>Why Darbar Wins</h4><p>Original, premium, rooted and culturally powerful.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="theme">
+  <div class="container">
+    <div class="section-label">Content Theme</div>
+    <h2 class="section-title">The World Came to Us First</h2>
+    <div class="grid-3">
+      <div class="card"><h4>Provenance</h4><p>Every jar tells origin and authenticity.</p></div>
+      <div class="card"><h4>The Carpet as Story</h4><p>Trade, luxury and craftsmanship.</p></div>
+      <div class="card"><h4>The Gift of Courts</h4><p>Gifting as status and honour.</p></div>
+      
+    </div>
+  </div>
+</section>
+
+<section id="language">
+  <div class="container">
+    <div class="section-label">Brand Language</div>
+    <h2 class="section-title">Words That Belong To This Collection</h2>
+    <div class="tags">
+      <div class="tag">Provenance</div>
+      <div class="tag">Reserve</div>
+      <div class="tag">Silk Route</div>
+      <div class="tag">Court-Worthy</div>
+      <div class="tag">World-Sourced</div>
+    </div>
+    <div class="quote">
+      <h2>“Six jars. Six origins. One box that carries the world’s finest.”</h2>
+    </div>
+  </div>
+</section>
+
+<section id="catalog">
+  <div class="container">
+    <div class="catalog-header">
+      <div>
+        <div class="section-label">Premium Collection Catalog</div>
+        <h2 class="section-title">Explore Our Products</h2>
+      </div>
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search products...">
+      </div>
+    </div>
+
+    <div class="catalog-layout">
+      <aside class="sidebar">
+
+        <button class="hamburger-btn" id="hamburgerBtn" aria-label="Toggle filter categories">
+          <span class="ham-lines">
+            <span class="ham-line"></span>
+            <span class="ham-line"></span>
+            <span class="ham-line"></span>
+          </span>
+          <span class="ham-text">Products Categories</span>
+          <span class="ham-arrow">▾</span>
+        </button>
+
+        <div class="sidebar-menu" id="sidebarMenu">
+          <button class="category-btn active" data-category="All">All Products</button>
+          <button class="category-btn" data-category="Dry Fruits Gift Pack">Dry Fruits Gift Pack</button>
+          <button class="category-btn" data-category="Sweets Gift Pack">Sweets Gift Pack</button>
+          <button class="category-btn" data-category="Chocolate Gift Pack">Chocolate Gift Pack</button>
+          <button class="category-btn" data-category="Assorted Hampers">Assorted Hampers</button>
+          <button class="category-btn" data-category="Premium Gifts">Premium Gifts</button>
+
+          <div class="dropdown-group">
+            <button class="sidebar-dropdown-toggle" type="button">
+              Explore By Budget <span class="dd-arrow">▾</span>
+            </button>
+            <div class="dropdown-items">
+              <button class="category-btn" data-category="Under 500">Under ₹500</button>
+              <button class="category-btn" data-category="Under 500 to 1000">₹500 – ₹1,000</button>
+              <button class="category-btn" data-category="Under 1000 to 2000">₹1,000 – ₹2,000</button>
+              <button class="category-btn" data-category="Under 2000 to 3000">₹2,000 – ₹3,000</button>
+              <button class="category-btn" data-category="Above 3000">Above ₹3,000</button>
+            </div>
+          </div>
+
+          <div class="dropdown-group">
+            <button class="sidebar-dropdown-toggle" type="button">
+              Explore By Collection <span class="dd-arrow">▾</span>
+            </button>
+            <div class="dropdown-items">
+              <button class="category-btn" data-category="Courtyard Collection">Courtyard Collection</button>
+              <button class="category-btn" data-category="Four Season Collection">Four Season Collection</button>
+            </div>
+          </div>
+        </div>
+
+      </aside>
+
+      <main class="products-section">
+        <div class="products-grid" id="productsGrid"></div>
+      </main>
+    </div>
+  </div>
+</section>
+
+<div class="custom-box">
+    <div class="custom-head">
+      <h3>Customization Pricing</h3>
+      <p>Make every hamper distinctly yours.</p>
+    </div>
+    <div class="custom-grid">
+
+      <div class="cu">
+        <div class="cu-label">Logo Printing on Box</div>
+        <div class="cu-price">₹40<span>/ Box</span></div>
+        <div class="cu-moq">MOQ 1000 Boxes</div>
+      </div>
+
+      <div class="cu">
+        <div class="cu-label">Customised Ribbons</div>
+        <div class="cu-price">₹12<span>/ Box</span></div>
+        <div class="cu-moq">MOQ 500 Boxes</div>
+      </div>
+
+      <div class="cu">
+        <div class="cu-label">Customised Cards</div>
+        <div class="cu-price">₹30<span>/ Card</span></div>
+        <div class="cu-moq">MOQ 50 (Custom) / 300 (Personalisation)</div>
+      </div>
+      
+      <div class="cu">
+        <div class="cu-label">Shipping</div>
+        <div class="cu-price">From ₹50</div>
+        <div class="cu-moq">4-7 Days Delivery</div>
+      </div>
+
+      
+
+    </div>
+  </div>
+
+
+
+  <footer id="contact" class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <!-- <div class="footer-mark">
+        <span>HF</span>
+      </div> -->
+      <h2 class="footer-name">HYPER FOODS</h2>
+      <p class="footer-tag"><em>Food &amp; Beyond · Est. Jaipur</em></p>
+    </div>
+
+    <div class="footer-cards">
+      <div class="fcard">
+        <div class="fcard-label">Business Buyers</div>
+        <div class="fcard-desc">Looking for gifts for your employees or partners?</div>
+        <div class="fcard-contacts">
+          <a href="tel:9828499066"><span>Rishabh</span> 9828499066</a>
+          <a href="tel:7976633859"><span></span> 7976633859</a>
+        </div>
+      </div>
+      <div class="fcard">
+        <div class="fcard-label">Resellers · Corporate Gifting</div>
+        <div class="fcard-desc">Gifting company, retailer or distributor?</div>
+        <div class="fcard-contacts">
+          <a href="tel:9950109000"><span>Piyush</span> 9950109000</a>
+          <a href="tel:9828499066"><span>Rishabh</span> 9828499066</a>
+        </div>
+      </div>
+      <div class="fcard">
+        <div class="fcard-label">Online</div>
+        <div class="fcard-desc">Visit our company &amp; product websites.</div>
+        <div class="fcard-contacts">
+          <a href="https://www.hyperfoods.in" target="_blank"><span>Company</span> hyperfoods.in</a>
+          <a href="https://www.rawfruit.com" target="_blank"><span>Products</span> rawfruit.com</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div>© 2026 Hyper Foods · All products incl. applicable taxes</div>
+      <div>Prices subject to change · Festive Edition 2026</div>
+    </div>
+  </div>
+</footer>
+
+
+
+<script src="script.js"></script>
+</body>
+</html>
