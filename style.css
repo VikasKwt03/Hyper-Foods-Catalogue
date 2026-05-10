@@ -364,6 +364,9 @@
       color:var(--new);
       font-size:24px;
       margin-top:10px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
     }
 
     p.product-weight {
@@ -768,6 +771,27 @@
   display:block;
 }
 
+.whatsapp-btn{
+  width:36px;
+  height:36px;
+  background:#25D366;
+  border:none;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+  box-shadow:0 2px 8px rgba(0,0,0,0.18);
+  transition:transform 0.2s, box-shadow 0.2s;
+  padding:0;
+  flex-shrink:0;
+}
+
+.whatsapp-btn:hover{
+  transform:scale(1.12);
+  box-shadow:0 4px 14px rgba(37,211,102,0.45);
+}
+
 /* Product Info */
 .product-info{
   padding:16px;
@@ -819,8 +843,10 @@
   color:var(--new);
   font-size:24px;
   line-height:1.2;
-
   margin-top:auto;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
 }
 
 /* Empty */
@@ -1429,5 +1455,82 @@ a.product-card:hover {
   .sidebar {
     top: 60px !important;
     padding: 8px !important;
+  }
+}
+
+/* Scroll to Top Button */
+@keyframes pulseRing {
+  0%   { box-shadow: 0 4px 20px rgba(184,146,60,0.45), 0 0 0 0   rgba(184,146,60,0.35); }
+  70%  { box-shadow: 0 4px 20px rgba(184,146,60,0.45), 0 0 0 14px rgba(184,146,60,0);   }
+  100% { box-shadow: 0 4px 20px rgba(184,146,60,0.45), 0 0 0 0   rgba(184,146,60,0);   }
+}
+
+@keyframes arrowFloat {
+  0%, 100% { transform: translateY(2px); }
+  50%       { transform: translateY(-3px); }
+}
+
+@keyframes btnAppear {
+  0%   { opacity: 0; transform: translateY(20px) scale(0.7); }
+  60%  { transform: translateY(-4px) scale(1.05); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+#scrollTopBtn {
+  position: fixed;
+  bottom: 28px;
+  right: 24px;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #D9B662 0%, #B8923C 55%, #8a6420 100%);
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px) scale(0.7);
+  transition: opacity 0.25s, visibility 0.25s;
+  z-index: 9999;
+  outline: none;
+}
+
+#scrollTopBtn.visible {
+  opacity: 1;
+  visibility: visible;
+  animation: btnAppear 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) forwards,
+             pulseRing  2.8s ease-in-out 0.5s infinite;
+}
+
+#scrollTopBtn svg {
+  animation: arrowFloat 1.8s ease-in-out infinite;
+  display: block;
+}
+
+#scrollTopBtn:hover {
+  background: linear-gradient(135deg, #B8923C, #501717);
+  box-shadow: 0 8px 28px rgba(80, 23, 23, 0.45);
+  transform: translateY(-5px) scale(1.1) !important;
+  animation: none !important;
+}
+
+#scrollTopBtn:hover svg {
+  animation: none;
+  transform: translateY(-2px);
+  transition: transform 0.2s;
+}
+
+#scrollTopBtn:active {
+  transform: scale(0.93) !important;
+}
+
+@media (max-width: 768px) {
+  #scrollTopBtn {
+    bottom: 20px;
+    right: 16px;
+    width: 44px;
+    height: 44px;
   }
 }
