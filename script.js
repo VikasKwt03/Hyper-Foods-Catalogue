@@ -26,6 +26,7 @@ const products = [
     price: "₹599",
     description: "Description : Black Pepper Cashews 125gm and Peri Peri Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965329/DSC-1577_copy_w0vyrw.jpg",
+    link: "https://www.rawfruit.com/products/roasted-cashew-almonds",
     weight: "Product Net Weight : 250gm",
     sku: "SKU : RF-PET-PK02-BpcPpa-SMALL"
   },
@@ -36,6 +37,7 @@ const products = [
     price: "₹799",
     description: "Description : Cashews, Almonds and Golden Raisins 125gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969322/DSC-1599_copy_nmppla.jpg",
+    link: "https://www.rawfruit.com/products/celebration-gift-pack-cashew-almonds-raisins",
     weight: "Product Net Weight : 375gm",
     sku: "SKU : RF-PET-PK03-CaAlRa-SMALL"
   },
@@ -46,6 +48,7 @@ const products = [
     price: "₹899",
     description: "Description : Cashews, Almonds 125gm Each and Walnuts 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969534/DSC-1612_copy_ejywjq.jpg",
+    link: "https://www.rawfruit.com/products/celebration-gift-pack-cashew-almonds-walnuts",
     weight: "Product Net Weight : 350gm",
     sku: "SKU : RF-PET-PK03-CaAlWa-SMALL"
   },
@@ -56,6 +59,7 @@ const products = [
     price: "₹999",
     description: "Description : Cashews, Almonds, Golden Raisins 125gm Each and Pistachios 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969723/DSC-1633_copy_skxczs.jpg",
+    link: "https://www.rawfruit.com/products/festive-dry-fruits-gifting-packs-for-special-occasions",
     weight: "Product Net Weight : 495gm",
     sku: "SKU : RF-PET-PK04-CaAlPiRa-SMALL"
   },
@@ -66,6 +70,7 @@ const products = [
     price: "₹1199",
     description: "Description : Cashews, Almonds 125gm Each, Walnuts 100gm and Pistachios 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969767/DSC-1649_copy_uyqgpb.jpg",
+    link: "https://www.rawfruit.com/products/festive-edition-dry-fruits-gift-packs",
     weight: "Product Net Weight : 470gm",
     sku: "SKU : RF-PET-PK04-CaAlWaPi-SMALL"
   },
@@ -76,6 +81,7 @@ const products = [
     price: "₹1099",
     description: "Description : Cashews, Almonds and Golden Raisins 125gm Each and Walnuts 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969821/DSC-1653_copy_yjfowl.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gifting-packs-for-festivals-events",
     weight: "Product Net Weight : 475gm",
     sku: "SKU : RF-PET-PK04-CaAlWaRa-SMALL"
   },
@@ -86,6 +92,7 @@ const products = [
     price: "₹1399",
     description: "Description : Cashews, Almonds and Golden Raisins 125gm Each, Walnuts 100gm, Pistachios 120gm and Dates 150gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777971055/DSC-1672_copy_2_e0tmhf.jpg",
+    link: "https://www.rawfruit.com/products/assorted-nuts-dry-fruits-gift-packs",
     weight: "Product Net Weight : 475gm",
     sku: "SKU : RF-PET-PK06-CaAlRaWaPiDa-SMALL"
   },
@@ -96,6 +103,7 @@ const products = [
     price: "₹899",
     description: "Description : Almonds 125gm, Cashews 125gm, Dates 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777978525/with_card_kkrvyd.jpg",
+    link: "https://www.rawfruit.com/products/pure-delight-dry-fruits-hamper",
     weight: "Product Net Weight : 375gm",
     sku: "SKU : RF-TRAYPOTLI-BROWN-CaAlDa"
   },
@@ -106,6 +114,7 @@ const products = [
     price: "₹1499",
     description: "Description : Almonds 80gm, Cashews 80gm, Pistachios 60gm, Walnuts 60gm, Golden Raisins 80gm and Dates 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777974726/DSC-2083-Edit_copy_vjjftu.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gift-packs-premium-assorted-nuts",
     weight: "Product Net Weight : 460gm",
     sku: "SKU : RF-WB-M6-BASIC-LID"
   },
@@ -117,6 +126,7 @@ const products = [
     price: "₹2499",
     description: "Description : Cashews 100gm, Almonds 100gm, Black Pepper & Mint Cashews 100gm, Walnuts 80gm, Raisins 100gm, Pistachios 90gm, Apricots 100gm, Peanuts 100gm, Dates 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975092/DSC-2120-2_copy_ppn58v.jpg",
+    link: "https://www.rawfruit.com/products/traditional-dry-fruits-gift-packs",
     weight: "Product Net Weight : 870gm",
     sku: "SKU : RF-WB-LID-L9-BASIC"
   },
@@ -127,6 +137,7 @@ const products = [
     price: "₹3499",
     description: "Description : Almonds, Cashews, Golden Raisins, Pistachios and Dates 150gm Each, Walnuts 120gm, Chocolate Coated Coffee Dragees 300gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975549/DCIM-3_copy_dlogri.jpg",
+    link: "https://www.rawfruit.com/products/choco-nuts-and-dry-fruits-delight-gift-pack",
     weight: "Product Net Weight : 1170gm",
     sku: "SKU : RF-WB-HEXGN-BASIC-CHOCO"
   },
