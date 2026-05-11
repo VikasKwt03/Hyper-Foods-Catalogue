@@ -245,7 +245,7 @@
     .quote h2{
       font-size:34px;
       line-height:1.2;
-      font-style:italic;
+      /* font-style:italic; */
     }
 
     /* Catalog */
