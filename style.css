@@ -866,7 +866,7 @@ span.b2b {
   margin-top: 0px;
   /* background: linear-gradient(135deg, var(--dark-bg), var(--dark-bg-2)); */
   border-radius: 6px;
-  padding: clamp(28px, 5vw, 48px);
+  padding: clamp(20px, 5vw, 48px);
   color: var(--dark-cream);
   position: relative;
   overflow: hidden;
@@ -883,9 +883,10 @@ span.b2b {
 
 .custom-head {
   position: relative;
-  text-align: center;
+  /* text-align: center; */
   margin-bottom: 32px;
   padding-bottom: 24px;
+  margin: 15px 28px;
   /* border-bottom: 1px solid var(--dark-line); */
 }
 
@@ -917,13 +918,41 @@ span.b2b {
   margin: 0px 27px;
 }
 
+.customize-img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  /* border-radius: 12px; */
+  margin-bottom: 14px;
+  /* background: #f8f8f8; */
+}
+
+.customize-img img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+
+
+
 @media screen and (max-width: 768px){
+
+  .custom-head{
+    margin: 0px 10px;
+  }
   .custom-grid {
     margin: 0px;
   }
 
   span.b2b {
     font-size: 13px;
+  }
+
+  .customize-img {
+    height: auto;
   }
 }
 
@@ -943,6 +972,7 @@ span.b2b {
   color: var(--top-head);
   font-weight: 600;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .cu-price {
@@ -971,6 +1001,7 @@ span.b2b {
   /* color: rgba(244, 233, 210, 0.5); */
   color: black;
   /* font-style: italic; */
+  text-align: center;
 }
 
 
@@ -1003,11 +1034,11 @@ span.b2b {
 .footer-inner {
   position: relative;
   max-width: var(--container);
-  margin: 0 auto;
+  margin: 0 75px;
 }
 
 .footer-brand {
-  text-align: center;
+  text-align: justify;
   margin-bottom: 60px;
 }
 
@@ -1033,7 +1064,7 @@ span.b2b {
   font-family: 'Cormorant Garamond', serif;
   /* font-size: clamp(36px, 5vw, 56px); */
   font-size: 34px;
-  font-weight: 600;
+  /* font-weight: 600; */
   letter-spacing: 2px;
   background: var(--new);
   -webkit-background-clip: text;
@@ -1062,6 +1093,7 @@ span.b2b {
 
 @media (max-width: 800px) {
   .footer-cards { grid-template-columns: 1fr; }
+  .footer-inner {margin: 0 20px;}
 }
 
 
@@ -1542,3 +1574,5 @@ a.product-card:hover {
     height: 44px;
   }
 }
+
+
