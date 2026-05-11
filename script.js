@@ -12,7 +12,8 @@ const products = [
   {
     title: "Almonds, Cashews Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
-    price: "₹499",
+    // price: "₹499",
+    price: "<span class=b2b>Bulk Price</span> ₹499",
     description: "Description : Cashews 125gm and Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965152/DSC-1591_copy_rsc9wk.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-pack",
@@ -150,6 +151,7 @@ const products = [
     price: "₹549",
     description: "Description : Almonds 125gm, Cashews 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975773/DSC-1910_copy_x3lfep.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gift-hamper-festive-special-edition",
     weight: "Product Net Weight : 250gm",
     sku: "SKU : RF-MNDLA-GREEN-CaAl-BASIC"
   },
@@ -160,6 +162,7 @@ const products = [
     price: "₹1099",
     description: "Description : Almonds 130gm, Cashews 130gm, Pistachios 110gm, Dates 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975782/DCIM-26_copy_s8frab.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gift-pack-cashew-almond-pistachio-dates",
     weight: "Product Net Weight : 490gm",
     sku: "SKU : RF-MNDLA-RED-CaAlPiDa"
   },
@@ -170,6 +173,7 @@ const products = [
     price: "₹1799",
     description: "Description : Almonds 200gm, Cashews 200gm, Golden Raisins 200gm, Dates 200gm, Pistachios 175gm, Walnuts 175gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975786/DCIM.-6_copy_v7egyi.jpg",
+    link: "https://www.rawfruit.com/products/premium-dry-fruits-for-gifting",
     weight: "Product Net Weight : 1150gm",
     sku: "SKU : RF-MNDLA-BASIC-BLUE"
   },
@@ -182,6 +186,7 @@ const products = [
     price: "₹1299",
     description: "Description : Cashews 100gm, Almonds 100gm, Raisins 100gm, Walnuts 80gm, Pistachios 80gm, Dates 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777978769/DCIM-11_copy_ji80yu.jpg",
+    link: "https://www.rawfruit.com/products/healthy-premium-assorted-dry-fruits-gift-hamper",
     weight: "Product Net Weight : 580gm",
     sku: "SKU : BINGE6-R-CaAlRaWaPiDa-Basic"
   },
@@ -192,6 +197,7 @@ const products = [
     price: "₹799",
     description: "Description : Cashews 100gm, Almonds 100gm, Golden Raisins 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979018/DCIM-9_copy_h9et9e.jpg",
+    link: "https://www.rawfruit.com/products/celebration-assorted-dry-fruits-gift-box",
     weight: "Product Net Weight : 300gm",
     sku: "SKU : RF-BINGE-CaAlRa-RED"
   },
@@ -202,6 +208,7 @@ const products = [
     price: "₹699",
     description: "Description : Cashews 100gm, Almonds 100gm, Pistachios 80gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777978933/DCIM-5_copy_z6yemr.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gift-box-premium-nuts-collection",
     weight: "Product Net Weight : 280gm",
     sku: "SKU : RF-BINGE-CaAlPi-PRPL"
   },
@@ -212,6 +219,7 @@ const products = [
     price: "₹999",
     description: "Description : Cashews 125gm, Almonds 125gm, Golden Raisins 125gm and Pistachios 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979295/DSC-1944_copy_vfywxm.jpg",
+    link: "https://www.rawfruit.com/products/healthy-indulgence-dry-fruits-gift-hamper",
     weight: "Product Net Weight : 500gm",
     sku: "SKU : RF-G-KNJI-CaAlRaPi-BASIC"
   },
@@ -222,6 +230,7 @@ const products = [
     price: "₹799",
     description: "Description : Black Pepper & Mint Cashews, African Peri Peri Cashews & Himalayan Pink Salt Cashews 100gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979808/Rakhi_2026_Content_Design_c98cmd.jpg",
+    link: "https://www.rawfruit.com/products/roasted-cashews-dry-fruits-gifts-hamper",
     weight: "Product Net Weight : 300gm",
     sku: "SKU : RF-TNTBX-PK03-BpcPpcPsc"
   },
@@ -232,6 +241,7 @@ const products = [
     price: "₹699",
     description: "Description : Iranian Pistachios, Benin Cashews and American Almonds 100gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777980093/DSC-6183-2_copy_i5t0st.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gift-hamper-for-celebrations",
     weight: "Product Net Weight : 300gm",
     sku: "SKU : RF-R-ELGNTPOTLI-AlCaPi"
   },
@@ -242,8 +252,9 @@ const products = [
     price: "₹899",
     description: "Description : Iranian Pistachios, Benin Cashews, American Almonds and Golden Raisins 100gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777980099/DSC-6152-Edit_copy_nzvpvd.jpg",
+    link: "https://www.rawfruit.com/products/dry-fruits-gift-hamper-for-family",
     weight: "Product Net Weight : 400gm",
-    sku: "SKU : RF-G-ELGNTPOTLI-AlCaRaPi"
+    sku: "SKU : RF-P-ELGNTPOTLI-CaAlRaPi"
   },
 
    {
