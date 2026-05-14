@@ -765,17 +765,54 @@ function displayProducts(filteredProducts) {
   });
 }
 
+// function filterProducts(category) {
+//   if (category === "All") {
+//     displayProducts(products);
+//   } else {
+//     const filteredProducts = products.filter(product =>
+//       product.category.includes(category)
+//     );
+
+//     displayProducts(filteredProducts);
+//   }
+// }
+
+
 function filterProducts(category) {
+  let filteredProducts;
+
   if (category === "All") {
-    displayProducts(products);
+    // Default original order
+    filteredProducts = [...products];
+
   } else {
-    const filteredProducts = products.filter(product =>
+    filteredProducts = products.filter(product =>
       product.category.includes(category)
     );
 
-    displayProducts(filteredProducts);
+    // Only sort LOW to HIGH for budget categories
+    const budgetCategories = [
+      "Under 500",
+      "Under 500 to 1000",
+      "Under 1000 to 2000",
+      "Under 2000 to 3000",
+      "Above 3000"
+    ];
+
+    if (budgetCategories.includes(category)) {
+      filteredProducts.sort((a, b) => {
+        const priceA = parseInt(a.price.replace(/[^\d]/g, ""), 10);
+        const priceB = parseInt(b.price.replace(/[^\d]/g, ""), 10);
+        return priceA - priceB; // Low to High
+      });
+    }
   }
+
+  displayProducts(filteredProducts);
 }
+
+
+
 
 categoryButtons.forEach(button => {
   button.addEventListener("click", function () {
