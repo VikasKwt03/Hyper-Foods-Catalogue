@@ -883,7 +883,6 @@ span.b2b {
 
 .custom-box {
   margin-top: 0px;
-  /* background: linear-gradient(135deg, var(--dark-bg), var(--dark-bg-2)); */
   border-radius: 6px;
   padding: clamp(20px, 5vw, 48px);
   color: var(--dark-cream);
@@ -896,7 +895,6 @@ span.b2b {
   content: '';
   position: absolute;
   inset: 0;
-  /* background: radial-gradient(ellipse 60% 80% at 100% 0%, rgba(184, 146, 60, 0.12) 0%, transparent 60%); */
   pointer-events: none;
 }
 
@@ -1054,11 +1052,13 @@ span.b2b {
   color: black;
   margin-bottom: 6px;
   line-height: 1;
+  text-align: center;
+  margin: 15px;
 }
 
 .cu-price span {
   font-family: var(--sans);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   /* color: rgba(244, 233, 210, 0.55); */
   color: black;
@@ -1074,6 +1074,7 @@ span.b2b {
   /* font-style: italic; */
   text-align: center;
   letter-spacing: 0.5px;
+  min-height: 40px;
 }
 
 
@@ -1082,6 +1083,9 @@ span.b2b {
   .custom-head h2 {
     font-size: 28px;
   };
+
+  
+
 
 
 }
@@ -1186,6 +1190,11 @@ span.b2b {
   .fcard {
     margin: 0px;
   }
+
+  .cu-price {
+    margin: 10px;
+  }
+
 }
 
 .fcard:hover {
@@ -1688,3 +1697,6 @@ a.product-card:hover {
     margin-top: -12px;
   }
 }
+
+
+
