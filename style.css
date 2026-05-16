@@ -1049,7 +1049,7 @@ span.b2b {
   font-size: 18px;
   /* font-weight: 700; */
   /* color: var(--dark-cream); */
-  color: black;
+  color: #686161;
   margin-bottom: 6px;
   line-height: 1;
   text-align: center;
@@ -1061,7 +1061,7 @@ span.b2b {
   font-size: 14px;
   font-weight: 500;
   /* color: rgba(244, 233, 210, 0.55); */
-  color: black;
+  color: #686161;
   margin-left: 6px;
   letter-spacing: 0.1em;
   /* text-transform: uppercase; */
