@@ -305,6 +305,7 @@
       /* border-radius:12px; */
       cursor:pointer;
       text-align:left;
+      letter-spacing: 0.5px;
     }
 
     .category-btn.active,
@@ -884,11 +885,17 @@ span.b2b {
 .custom-box {
   margin-top: 0px;
   border-radius: 6px;
-  padding: clamp(20px, 5vw, 48px);
+  padding: clamp(20px, 5vw, 48px) 0;
   color: var(--dark-cream);
   position: relative;
   overflow: hidden;
   border-bottom: 1px solid var(--new-border);
+}
+
+.custom-box-inner {
+  width: 90%;
+  max-width: 1450px;
+  margin: 0 auto;
 }
 
 .custom-box::before {
@@ -901,9 +908,8 @@ span.b2b {
 .custom-head {
   position: relative;
   /* text-align: center; */
-  margin-bottom: 32px;
   padding-bottom: 24px;
-  margin: 15px 28px;
+  margin: 15px 0px;
   /* border-bottom: 1px solid var(--dark-line); */
 }
 
@@ -930,20 +936,20 @@ span.b2b {
 .custom-grid {
   position: relative;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(324px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 18px;
-  margin: 0px 27px;
+  margin: 0px;
 }
 
 
 .customize-img {
-  width: 60%;
+  width: 65%;
   height: auto;
   overflow: hidden;
-  margin: 0 auto 14px; 
+  margin: 0 auto 12px;
   display: flex;
-  justify-content: center; 
-  align-items: center; 
+  justify-content: center;
+  align-items: center;
 }
 
 .customize-img img {
@@ -997,6 +1003,7 @@ span.b2b {
   }
   .custom-grid {
     margin: 0px;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   span.b2b {
@@ -1024,7 +1031,7 @@ span.b2b {
   background: rgba(201, 154, 61, 0.12);
   border: 1px solid var(--new-border);
   /* border-radius: 4px; */
-  padding: 18px 18px 16px;
+  padding: 14px 14px 12px;
 }
 
 .cu-label {
@@ -1109,8 +1116,9 @@ span.b2b {
 
 .footer-inner {
   position: relative;
-  max-width: var(--container);
-  margin: 0 75px;
+  width: 90%;
+  max-width: 1450px;
+  margin: 0 auto;
 }
 
 .footer-brand {
@@ -1169,7 +1177,7 @@ span.b2b {
 
 @media (max-width: 800px) {
   .footer-cards { grid-template-columns: 1fr; }
-  .footer-inner {margin: 0 20px;}
+  .footer-inner { width: 90%; }
   .footer-name {font-size: 28px;}
   .footer-brand{margin-bottom: 40px;}
 }
@@ -1447,6 +1455,7 @@ a.product-card:hover {
   font-size: 13px;
   padding: 10px 14px;
   margin-bottom: 0;
+  letter-spacing: 0.5px;
 }
 
 /* ── Hamburger Button (hidden on desktop) ── */
