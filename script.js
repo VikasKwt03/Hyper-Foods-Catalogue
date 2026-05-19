@@ -14,6 +14,7 @@ const products = [
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
     // price: "₹499",
     price: "<span class=b2b>Bulk Price</span> ₹499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews 125gm and Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965152/DSC-1591_copy_rsc9wk.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-pack",
@@ -24,7 +25,8 @@ const products = [
   {
     title: "Roasted Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹599")],
-    price: "<span class=b2b>Bulk Price</span> ₹599/-",
+    price: "<span class=b2b>Bulk Price</span> ₹599/-</span>",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Black Pepper Cashews 125gm and Peri Peri Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965329/DSC-1577_copy_w0vyrw.jpg",
     link: "https://www.rawfruit.com/products/roasted-cashew-almonds",
@@ -36,6 +38,7 @@ const products = [
     title: "Pack of 3 Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews, Almonds and Golden Raisins 125gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969322/DSC-1599_copy_nmppla.jpg",
     link: "https://www.rawfruit.com/products/celebration-gift-pack-cashew-almonds-raisins",
@@ -47,6 +50,7 @@ const products = [
     title: "Premium Dry Fruits Treasure Box",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹899")],
     price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews, Almonds 125gm Each and Walnuts 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969534/DSC-1612_copy_ejywjq.jpg",
     link: "https://www.rawfruit.com/products/celebration-gift-pack-cashew-almonds-walnuts",
@@ -58,6 +62,7 @@ const products = [
     title: "Pack of 4 Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews, Almonds, Golden Raisins 125gm Each and Pistachios 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969723/DSC-1633_copy_skxczs.jpg",
     link: "https://www.rawfruit.com/products/festive-dry-fruits-gifting-packs-for-special-occasions",
@@ -69,6 +74,7 @@ const products = [
     title: "Festive Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1199")],
     price: "<span class=b2b>Bulk Price</span> ₹1199/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews, Almonds 125gm Each, Walnuts 100gm and Pistachios 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969767/DSC-1649_copy_uyqgpb.jpg",
     link: "https://www.rawfruit.com/products/festive-edition-dry-fruits-gift-packs",
@@ -80,6 +86,7 @@ const products = [
     title: "Assorted Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1099")],
     price: "<span class=b2b>Bulk Price</span> ₹1099/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews, Almonds and Golden Raisins 125gm Each and Walnuts 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777969821/DSC-1653_copy_yjfowl.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gifting-packs-for-festivals-events",
@@ -91,6 +98,7 @@ const products = [
     title: "Pack of 6 Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews, Almonds and Golden Raisins 125gm Each, Walnuts 100gm, Pistachios 120gm and Dates 150gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777971055/DSC-1672_copy_2_e0tmhf.jpg",
     link: "https://www.rawfruit.com/products/assorted-nuts-dry-fruits-gift-packs",
@@ -102,6 +110,7 @@ const products = [
     title: "Signature Dry Fruits Gift Collection",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹899")],
     price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 125gm, Cashews 125gm, Dates 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777978525/with_card_kkrvyd.jpg",
     link: "https://www.rawfruit.com/products/pure-delight-dry-fruits-hamper",
@@ -113,6 +122,7 @@ const products = [
     title: "Gourmet Dry Fruits Celebration Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1499")],
     price: "<span class=b2b>Bulk Price</span> ₹1499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 80gm, Cashews 80gm, Pistachios 60gm, Walnuts 60gm, Golden Raisins 80gm and Dates 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777974726/DSC-2083-Edit_copy_vjjftu.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-packs-premium-assorted-nuts",
@@ -125,6 +135,7 @@ const products = [
     title: "9 Types of Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹2499")],
     price: "<span class=b2b>Bulk Price</span> ₹2499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews 100gm, Almonds 100gm, Black Pepper & Mint Cashews 100gm, Walnuts 80gm, Raisins 100gm, Pistachios 90gm, Apricots 100gm, Peanuts 100gm, Dates 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975092/DSC-2120-2_copy_ppn58v.jpg",
     link: "https://www.rawfruit.com/products/traditional-dry-fruits-gift-packs",
@@ -136,6 +147,7 @@ const products = [
     title: "7 Types of Dry Fruits Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹3499")],
     price: "<span class=b2b>Bulk Price</span> ₹3499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds, Cashews, Golden Raisins, Pistachios and Dates 150gm Each, Walnuts 120gm, Chocolate Coated Coffee Dragees 300gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975549/DCIM-3_copy_dlogri.jpg",
     link: "https://www.rawfruit.com/products/choco-nuts-and-dry-fruits-delight-gift-pack",
@@ -149,6 +161,7 @@ const products = [
     title: "Elegant Dry Fruits Treasure Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹549")],
     price: "<span class=b2b>Bulk Price</span> ₹549/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 125gm, Cashews 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975773/DSC-1910_copy_x3lfep.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-hamper-festive-special-edition",
@@ -160,6 +173,7 @@ const products = [
     title: "Festive Dry Fruits Premium Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1099")],
     price: "<span class=b2b>Bulk Price</span> ₹1099/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 130gm, Cashews 130gm, Pistachios 110gm, Dates 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975782/DCIM-26_copy_s8frab.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-pack-cashew-almond-pistachio-dates",
@@ -171,6 +185,7 @@ const products = [
     title: "Celebration Special Dry Fruits Box",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1799")],
     price: "<span class=b2b>Bulk Price</span> ₹1799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 200gm, Cashews 200gm, Golden Raisins 200gm, Dates 200gm, Pistachios 175gm, Walnuts 175gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777975786/DCIM.-6_copy_v7egyi.jpg",
     link: "https://www.rawfruit.com/products/premium-dry-fruits-for-gifting",
@@ -184,6 +199,7 @@ const products = [
     title: "Premium Nuts Selection Gift Box",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews 100gm, Almonds 100gm, Raisins 100gm, Walnuts 80gm, Pistachios 80gm, Dates 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777978769/DCIM-11_copy_ji80yu.jpg",
     link: "https://www.rawfruit.com/products/healthy-premium-assorted-dry-fruits-gift-hamper",
@@ -195,6 +211,7 @@ const products = [
     title: "Royal Feast Dry Fruits Box",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews 100gm, Almonds 100gm, Golden Raisins 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979018/DCIM-9_copy_h9et9e.jpg",
     link: "https://www.rawfruit.com/products/celebration-assorted-dry-fruits-gift-box",
@@ -206,6 +223,7 @@ const products = [
     title: "Exclusive Dry Fruits Gift Box",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
     price: "<span class=b2b>Bulk Price</span> ₹699/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews 100gm, Almonds 100gm, Pistachios 80gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777978933/DCIM-5_copy_z6yemr.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-box-premium-nuts-collection",
@@ -217,6 +235,7 @@ const products = [
     title: "Limited Edition Dry Fruit Treats",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Cashews 125gm, Almonds 125gm, Golden Raisins 125gm and Pistachios 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979295/DSC-1944_copy_vfywxm.jpg",
     link: "https://www.rawfruit.com/products/healthy-indulgence-dry-fruits-gift-hamper",
@@ -228,6 +247,7 @@ const products = [
     title: "Roasted Cashews Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Black Pepper & Mint Cashews, African Peri Peri Cashews & Himalayan Pink Salt Cashews 100gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979808/Rakhi_2026_Content_Design_c98cmd.jpg",
     link: "https://www.rawfruit.com/products/roasted-cashews-dry-fruits-gifts-hamper",
@@ -239,6 +259,7 @@ const products = [
     title: "Assorted Dry Fruits Delight Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
     price: "<span class=b2b>Bulk Price</span> ₹699/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Iranian Pistachios, Benin Cashews and American Almonds 100gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777980093/DSC-6183-2_copy_i5t0st.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-hamper-for-celebrations",
@@ -250,6 +271,7 @@ const products = [
     title: "Signature Harvest Dry Fruits Box",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹899")],
     price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Iranian Pistachios, Benin Cashews, American Almonds and Golden Raisins 100gm Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777980099/DSC-6152-Edit_copy_nzvpvd.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-gift-hamper-for-family",
@@ -261,6 +283,7 @@ const products = [
     title: "Sweets with Dry Fruits Gift Pack",
     category: ["Sweets Gift Pack", getBudgetCategory("₹949")],
     price: "<span class=b2b>Bulk Price</span> ₹949/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 9 Pcs of Assorted Fudge Bites, Benin Cashews & American Almonds (100Grams) Each.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778051236/DSC-2220-Edit_copy_ppq9x0.jpg",
     link: "https://www.rawfruit.com/products/pack-of-9-sweets-with-dry-fruits",
@@ -272,6 +295,7 @@ const products = [
     title: "Pack of 18 Assorted Sweets Pack",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1249")],
     price: "<span class=b2b>Bulk Price</span> ₹1249/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 3pcs Each of Rose Petal Ladoo, Mango Fudge, Rose Marzipan, Kiwi Tarts, HazelNut Chocolate Dipped Figs, DryFruit Ladoo.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778045494/DSC-3085-Edit_nlj3bz.jpg",
     link: "",
@@ -284,6 +308,7 @@ const products = [
     title: "Pack of 2 Sweets Gift Pack",
     category: ["Sweets Gift Pack", getBudgetCategory("₹599")],
     price: "<span class=b2b>Bulk Price</span> ₹599/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Milk Cake 200gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981137/DCIM-6_copy_pylpsm.jpg",
     link: "https://www.rawfruit.com/products/kaju-katli-milk-cake-sweets-combo-gift-pack",
@@ -295,6 +320,7 @@ const products = [
     title: "Festive Sweets Gift Pack",
     category: ["Sweets Gift Pack", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Anjeer Chakkar 200gm, Kesar Roll 200gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981169/DCIM-37_copy_fkzgig.jpg",
     link: "https://www.rawfruit.com/products/kesar-roll-anjeer-chakkar-sweets-combo-gift-pack",
@@ -316,6 +342,7 @@ const products = [
     title: "Signature Sweet Treats Box",
     category: ["Sweets Gift Pack", getBudgetCategory("₹599")],
     price: "<span class=b2b>Bulk Price</span> ₹599/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Dry Masala Samosa 160gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981241/DCIM-2_copy_lzd12e.jpg",
     link: "https://www.rawfruit.com/products/kaju-katli-samosa-sweets-combo-gift-pack",
@@ -327,6 +354,7 @@ const products = [
     title: "Pack of 4 Sweets Gift Pack",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Milk Cake 200gm, Dodha Barfi 200gm, Chana Badam Barfi 200gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981583/DCIM-6_copy_k48hau.jpg",
     link: "https://www.rawfruit.com/products/assorted-sweets-hamper-for-weddings-festivals",
@@ -338,6 +366,7 @@ const products = [
     title: "Gourmet Sweets Gift Collection",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Milk Cake 200gm, Dry Masala Kachori 160gm, Dry Masala Samosa 160gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981606/DCIM-7_copy_2_zlfqcz.jpg",
     link: "https://www.rawfruit.com/products/sweets-treats-collection-for-celebrations",
@@ -349,6 +378,7 @@ const products = [
     title: "Supreme Sweets Feast Hamper",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kesar Roll 200gm, Anjeer Chakkar 200gm, Dry Masala Kachori 160gm, Dry Masala Samosa 160gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981711/DCIM_copy_yicwmk.jpg",link: "https://www.rawfruit.com/products/sweet-delights-collection-for-festive-celebrations",
     weight: "Product Net Weight : 720gm",
@@ -362,6 +392,7 @@ const products = [
     title: "Sweets with Dry Fruits Gift Pack",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1099")],
     price: "<span class=b2b>Bulk Price</span> ₹1099/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Cashews 125gm, Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981981/_DSC0723_a93vqv.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-with-sweets-gift-pack",
@@ -373,6 +404,7 @@ const products = [
     title: "Royal Indulgence Sweet Box",
     category: ["Sweets Gift Pack", getBudgetCategory("₹899")],
     price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Milk Cake 200gm, Cashews 125gm, Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777981998/_DSC0718_kfr4m6.jpg",
     link: "https://www.rawfruit.com/products/sweets-gift-pack-with-dry-fruits",
@@ -384,6 +416,7 @@ const products = [
     title: "Exclusive Sweets Treasure Box",
     category: ["Sweets Gift Pack", getBudgetCategory("₹899")],
     price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kesar Roll 200gm, Cashews 125gm, Almonds 125gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777982071/_DSC0722_o2rmvs.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-combo-with-sweets-gift-pack",
@@ -398,6 +431,7 @@ const products = [
     title: "Assorted Sweets Pack with Dry Fruits",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 2 Pcs Each of Dry Fruit Ladoo, Mango Fudge, Rose Petal Ladoo, Kiwi Tarts, Rose Marzipan, HazelNut Chocolate Dipped Figs, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778045801/DSC-3148-Edit_nnsqtt.jpg",
     link: "",
@@ -409,6 +443,7 @@ const products = [
     title: "Fudge Sweets Pack with Dry Fruits",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1499")],
     price: "<span class=b2b>Bulk Price</span> ₹1499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 2 Pcs Each of Kesar Fudge, Cranberry Fudge, Mango Fudge, Rose Fudge, Strawberry Fudge, Badam Fudge, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778045738/DSC-3144-Edit_r9lzdj.jpg",
     link: "",
@@ -420,6 +455,7 @@ const products = [
     title: "Ladoo Sweets Pack with Dry Fruits",
     category: ["Sweets Gift Pack", getBudgetCategory("₹1599")],
     price: "<span class=b2b>Bulk Price</span> ₹1599/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 2 Pcs Each of Pista Saffron Ladoo, Cranberry Pista Almond Ladoo, Hazelnut Ladoo, Rose Petal Ladoo, Chocochip Ladoo, Dry Fruit Ladoo, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778045762/DSC-3141-Edit_noadcs.jpg",
     link: "",
@@ -431,6 +467,7 @@ const products = [
     title: "Artisanal Sweets Pack with Dry Fruits",
     category: ["Sweets Gift Pack", getBudgetCategory("₹2399")],
     price: "<span class=b2b>Bulk Price</span> ₹2399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 2 Pcs Each of Mango, Rose, Chocolate, Lemon, Pineapple, Orange (Marzipan), 2 Pcs Each of Kesar, Cranberry, Mango, Rose, Strawberry, Badam (Fudge), Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778050711/DSC-3182_copy_qbvkkg.jpg",
     link: "",
@@ -442,6 +479,7 @@ const products = [
     title: "Celebration Special Sweets Box",
     category: ["Sweets Gift Pack", getBudgetCategory("₹2399")],
     price: "<span class=b2b>Bulk Price</span> ₹2399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 4 Pcs Each of Dry Fruit Ladoo, Mango Fudge, Rose Petal Ladoo, Kiwi Tarts, Rose Marzipan, HazelNut Chocolate Dipped Figs, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778050716/DSC-3189-Edit_copy_de1odw.jpg",
     link: "",
@@ -453,6 +491,7 @@ const products = [
     title: "Traditional Sweets Treasure Hamper",
     category: ["Sweets Gift Pack", getBudgetCategory("₹2499")],
     price: "<span class=b2b>Bulk Price</span> ₹2499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : 4 Pcs Each of Hazelnut Ladoo, Cranberry Pista Almond Ladoo, Rose Petal Ladoo, Dry Fruit Ladoo, Chocochip Ladoo, Pista Saffron Ladoo, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778050732/DSC-3179-Edit_copy_lldxyu.jpg",
     link: "",
@@ -464,6 +503,7 @@ const products = [
     title: "Festive Gift Hamper",
     category: ["Assorted Hampers", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Blueberry Jam Cookies 100gm, Butter Cashew Cookies 100gm, Roasted Nuts Mix 50gm, Coastal Berry Trail Mix 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055480/_DSC1089_ndfi3e.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-with-cookies-gift-hamper",
@@ -473,8 +513,9 @@ const products = [
 
   {
     title: "Premium Celebration Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹799")],
+    category: ["Chocolate Gift Pack", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Dates & Honey Cookies 100gm, Dodha Barfi 200gm, Ferrero Rocher Chocolate Pack of 4.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055516/_DSC1043_qoft5v.jpg",
     link: "https://www.rawfruit.com/products/chocolate-with-sweets-gift-hamper",
@@ -484,8 +525,9 @@ const products = [
 
   {
     title: "Festive Delight Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹899")],
+    category: ["Chocolate Gift Pack", getBudgetCategory("₹899")],
     price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Butter Cahsew Cookies 100gm, Kaju Katli 200gm, Roasted Nut Mix 50gm, Ferrero Rocher Chocolate Pack of 4.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055531/_DSC1031_webswc.jpg",
     link: "https://www.rawfruit.com/products/sweets-cookies-with-chocolate-gift-hamper",
@@ -497,6 +539,7 @@ const products = [
     title: "Signature Gift Hamper Collection",
     category: ["Assorted Hampers", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Zatar Spiced Lavash 100gm, Butter Cashew Cookies 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055602/_DSC1111_jcajob.jpg",
     link: "https://www.rawfruit.com/products/cookies-with-sweets-gift-hmaper",
@@ -508,6 +551,7 @@ const products = [
     title: "Premium Festive Hamper Box",
     category: ["Assorted Hampers", getBudgetCategory("₹949")],
     price: "<span class=b2b>Bulk Price</span> ₹949/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : French Heart Cookies 100gm, Biscotti Pizza Minis 100gm, Mocha Almonds Dragees 90gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055623/DSC-4147-Edit_copy_fy3feh.jpg",
     link: "https://www.rawfruit.com/products/snacks-with-cookies-gift-hamper",
@@ -519,6 +563,7 @@ const products = [
     title: "Exclusive Gift Hamper Pack",
     category: ["Assorted Hampers", getBudgetCategory("₹799")],
     price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almond Biscotti Cookies 100gm, Cinnamon Sticks 100gm, Cookies & Creme Almonds Dragees 90gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055857/DSC-4157-Edit_copy_nuq3kr.jpg",
     link: "https://www.rawfruit.com/products/cookies-snacks-hamper-gift-pack",
@@ -528,8 +573,9 @@ const products = [
 
   {
     title: "Royal Treasure Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹999")],
+    category: ["Chocolate Gift Pack", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Blueberry Jam Cookies 100gm, Dry Masala Samosa 160gm, Crunchy Pita Chips 100gm, Fruit & Nut Chocolate Bar 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055566/DCIM.-2_copy_llessu.jpg",
     link: "https://www.rawfruit.com/products/chocolate-bar-snacks-with-cookies-gift-hamper",
@@ -539,8 +585,9 @@ const products = [
 
   {
     title: "Premium Gifting Delight Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹999")],
+    category: ["Chocolate Gift Pack", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Coconut Crunch Brittle 100gm, Turkish Treats 100gm, Roasted Nut Mix 50gm, Ferrero Rocher Chocolate Pack of 4.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055720/_DSC1067_mlnawg.jpg",
     link: "https://www.rawfruit.com/products/brittle-sweets-dry-fruits-with-chocolate-gift-hamper",
@@ -550,8 +597,9 @@ const products = [
 
   {
     title: "Classic Luxury Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹999")],
+    category: ["Chocolate Gift Pack", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Peanut Crunch Brittle 100gm, Turkish Baklawa 100gm, Trail Mix 50 Grams, Ferrero Rocher Chocolate Pack of 4.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055782/_DSC1055_itx7a8.jpg",
     link: "https://www.rawfruit.com/products/trail-mix-brittle-with-dry-fruits-gift-hamper",
@@ -563,6 +611,7 @@ const products = [
     title: "Dry Fruits Hamper Tary",
     category: ["Assorted Hampers", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 125gm, Cashews 125gm, Raisins 125gm, Pistachios 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778752780/DSC-2348-Edit_copy_uigmht.jpg",
     link: "https://www.rawfruit.com/products/healthy-dry-fruits-gift-hamper-for-festive-gifting",
@@ -574,6 +623,7 @@ const products = [
     title: "Royal Festive Hamper Collection",
     category: ["Assorted Hampers", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almonds 125gm, Cashews 125gm, Raisins 125gm, Pistachios 120gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778752865/DSC-2295-Edit_copy_vbmfcd.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-hamper-gift-pack",
@@ -585,6 +635,7 @@ const products = [
     title: "Deluxe Treasure Gift Hamper",
     category: ["Assorted Hampers", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Almond Biscotti Cookies 100gm, French Hearts Cookies 100gm, Butter Cashew Cookies 100gm, Belgian Chocochips Cookies 100gm, Cinnamon Sticks 100gm, Spiced Lavash 100gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778057689/_DSC0102_sabvqf.jpg",
     link: "https://www.rawfruit.com/products/cookies-snacks-hamper-gift-box",
@@ -596,6 +647,7 @@ const products = [
     title: "Premium Treasure Celebration Hamper",
     category: ["Assorted Hampers", getBudgetCategory("₹1499")],
     price: "<span class=b2b>Bulk Price</span> ₹1499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Dates & Honey Cookies 100gm, Dubai Dates 100gm, Toasted Garlic Crostini 65gm, Dry Fruit Nutty Brittle 100gm, Assorted Ladoo (9Pcs), Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778058025/_DSC0091_rzst5u.jpg",
     link: "https://www.rawfruit.com/products/sweets-snacks-brittle-with-cookies-gift-hamper",
@@ -607,6 +659,7 @@ const products = [
     title: "Signature Celebration Hamper",
     category: ["Assorted Hampers", getBudgetCategory("₹1699")],
     price: "<span class=b2b>Bulk Price</span> ₹1699/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Blueberry Jam Cookies 100gm, Turkish Baklawa 100gm, Pita Chips 100gm, Kashmiri Kahwa Tea 50gm, Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778058055/_DSC0073_hs9fgt.jpg",
     link: "https://www.rawfruit.com/products/dry-fruits-cookies-snacks-with-tea-gift-hamper",
@@ -616,8 +669,9 @@ const products = [
 
   {
     title: "Exclusive Premium Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1499")],
+    category: ["Chocolate Gift Pack", getBudgetCategory("₹1499")],
     price: "<span class=b2b>Bulk Price</span> ₹1499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Turkish Treats 100gm, Butter Cashew Cookies 100gm, Zatar Spiced Lavash 100gm, Masala Tea 50gm, Coffee Almond Chocolate Bar 50gm, Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778058088/_DSC0058_nsvhwc.jpg",
     link: "https://www.rawfruit.com/products/chcocolate-snacks-cookies-tea-with-dryfruits-gift-hamper",
@@ -629,6 +683,7 @@ const products = [
     title: "Celebration Charm Gift Hamper",
     category: ["Assorted Hampers", getBudgetCategory("₹1699")],
     price: "<span class=b2b>Bulk Price</span> ₹1699/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Chana Badam Barfi 200gm, French Hearts Cookies 100gm, Pizza Minis 100gm, Forest Fauna Tea 50gm, Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778058191/_DSC0042_wlqa0a.jpg",
     link: "https://www.rawfruit.com/products/sweets-cookies-tea-snacks-with-dryfruits-gift-hamper",
@@ -638,8 +693,9 @@ const products = [
 
   {
     title: "Premium Delight Treasure Basket",
-    category: ["Assorted Hampers", getBudgetCategory("₹3499")],
+    category: ["Premium Gifts", getBudgetCategory("₹3499")],
     price: "<span class=b2b>Bulk Price</span> ₹3499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Dry Masala Kachori 160gm, Crunchy Pita Chips 100gm, Pizza Minis 100gm, Blueberry Jam Cookies 100gm, French Hearts Cookies 100gm, Ferrero Rocher Chocolate pack of 4, Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778059884/_DSC1000_qony1e.jpg",
     link: "https://www.rawfruit.com/products/gift-hamper-snacks-cookies-with-sweets",
@@ -649,8 +705,9 @@ const products = [
 
   {
     title: "Signature Treasure Basket Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1999")],
+    category: ["Premium Gifts", getBudgetCategory("₹1999")],
     price: "<span class=b2b>Bulk Price</span> ₹1999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : MilkCake 200gm, Belgian Chocochip Cookies 100gm, Chocolate Peanut Butter Bar 100gm, Milk Chocolate Bar 40gm, Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778060160/_DSC0976_bc8r0a.jpg",
     link: "https://www.rawfruit.com/products/gift-hamper-cookies-brittle-with-sweets",
@@ -660,8 +717,9 @@ const products = [
 
   {
     title: "Elegant Treasure Basket Collection",
-    category: ["Assorted Hampers", getBudgetCategory("₹1999")],
+    category: ["Premium Gifts", getBudgetCategory("₹1999")],
     price: "<span class=b2b>Bulk Price</span> ₹1999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Dry Fruit Nutty Brittle 100gm, Cinnamon Sticks 100gm, Milk Chocolate Bar 40gm, Cashews 50gm, Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778060211/_DSC0975_d5txst.jpg",
     link: "https://www.rawfruit.com/products/gift-hamper-sweets-dry-fruits-snacks-with-brittle",
@@ -671,8 +729,9 @@ const products = [
 
   {
     title: "Festive Premium Treasure Basket",
-    category: ["Assorted Hampers", getBudgetCategory("₹4999")],
+    category: ["Premium Gifts", getBudgetCategory("₹4999")],
     price: "<span class=b2b>Bulk Price</span> ₹4999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli & MilkCake (200gm each), Dry Masala Samosa & Kachori (160g each), Pita Chips 100gm, Pizza Minis 100gm, Belgian Chocochips Cookies 100gm, French Hearts Cookies 100gm, Tiramisu Chocolate Box 200gm, Dry Fruits Nutty Brittle 100gm, Cashews 50gm, Almonds 50gm, Roasted Cashews 50gm, Roasted Almonds 50gm, Kashmiri Kahwa Tea 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778060558/_DSC1170_nplazs.jpg",
     link: "https://www.rawfruit.com/products/gourmet-indulgence-sweets-with-assorted-savories-hamper",
@@ -682,8 +741,9 @@ const products = [
 
   {
     title: "Premium Occasion Gift Basket",
-    category: ["Assorted Hampers", getBudgetCategory("₹2499")],
+    category: ["Premium Gifts", getBudgetCategory("₹2499")],
     price: "<span class=b2b>Bulk Price</span> ₹2499/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Kaju Katli 200gm, Spiced Lavash 100gm, Butter Cashew Cookies 100gm, Cashews 50gm, Almonds 50gm, Bella Vita (CEO Man & White Oud) Perfume Combo (20 ml X 2), Wicker Basket.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778065204/_DSC1284_bsm2jd.jpg",
     link: "https://www.rawfruit.com/products/premium-gift-basket-fragrances-sweets-nuts-more",
@@ -693,8 +753,9 @@ const products = [
 
   {
     title: "Festive Royal Gift Basket",
-    category: ["Assorted Hampers", getBudgetCategory("₹2999")],
+    category: ["Premium Gifts", getBudgetCategory("₹2999")],
     price: "<span class=b2b>Bulk Price</span> ₹2999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Chana Badam Barfi 200gm, French Heart Cookies 100gm, Pizza Minis 100gm, Cashews 50gm, Almonds 50gm, Bella Vita (CEO Man & White Oud) Perfume Combo (20 ml X 2), Wicker Basket.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778065291/_DSC1273_dc9fbt.jpg",
     link: "https://www.rawfruit.com/products/gift-basket-bella-vita-perfume-channa-badam-barfi-gourmet-snacks",
@@ -704,8 +765,9 @@ const products = [
 
   {
     title: "Grand Luxury Basket Pack",
-    category: ["Assorted Hampers", getBudgetCategory("₹2999")],
+    category: ["Premium Gifts", getBudgetCategory("₹2999")],
     price: "<span class=b2b>Bulk Price</span> ₹2999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Dubai Dates 100gm, Turkish Baklawa 100gm, Turkish Treats 120gm, Dry Fruit Nutty Brittle 100gm, Cashews 50gm, Almonds 50gm, Roasted Cashews 50gm, Roasted Almonds 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778065812/_DSC0028_qywsqp.jpg",
     link: "https://www.rawfruit.com/products/exquisite-gift-pack-dubai-dates-turkish-baklawa-with-premium-dry-fruits",
@@ -715,8 +777,9 @@ const products = [
 
   {
     title: "Grand Festive Treasure Basket",
-    category: ["Assorted Hampers", getBudgetCategory("₹2999")],
+    category: ["Premium Gifts", getBudgetCategory("₹2999")],
     price: "<span class=b2b>Bulk Price</span> ₹2999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
     description: "Description : Butter Cashew Cookies 100gm, Turkish Treat 100gm, Coconut Crunch Brittle 100gm, Spiced Lavash 100gm, Nut Mix 50gm, Coffee Almond Chocolate Bar 50gm, Masala Tea 50gm.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778065889/_DSC0653_dhnwxc.jpg",
     link: "",
@@ -780,7 +843,7 @@ function displayProducts(filteredProducts) {
       : "";
 
     const waText = encodeURIComponent(
-      `*${product.title}*\n${product.price}\n${product.description}\n${product.weight || ''}\n${product.sku || ''}${product.link ? '\n' + product.link : ''}`
+      `*${product.title}*\n${product.price}\n${product.description}\n${product.weight || ''}\n${product.sku || ''}\n${product.moq || ''}${product.link ? '\n' + product.link : ''}`
     );
     const waUrl = `https://wa.me/?text=${waText}`;
 
@@ -810,6 +873,8 @@ function displayProducts(filteredProducts) {
             ${product.sku || ""}
           </p>
 
+      
+
           <div class="product-price">
             <span>${product.price}</span>
             <button class="whatsapp-btn" onclick="event.stopPropagation();window.open('${waUrl}','_blank')" title="Share on WhatsApp">
@@ -818,6 +883,10 @@ function displayProducts(filteredProducts) {
               </svg>
             </button>
           </div>
+
+          <p class="product-moq">
+            ${product.moq || ""}
+          </p>
 
         </div>
       </${tag}>
@@ -837,11 +906,49 @@ function displayProducts(filteredProducts) {
 //   }
 // }
 
+// function filterProducts(category) {
+//   let filteredProducts;
+
+//   if (category === "All") {
+//     // Default original order
+//     filteredProducts = [...products];
+
+//   } else {
+//     filteredProducts = products.filter(product =>
+//       product.category.includes(category)
+//     );
+
+//     // Only sort LOW to HIGH for budget categories
+//     const budgetCategories = [
+//       "Under 500",
+//       "Under 500 to 1000",
+//       "Under 1000 to 2000",
+//       "Under 2000 to 3000",
+//       "Above 3000"
+//     ];
+
+//     if (budgetCategories.includes(category)) {
+//       filteredProducts.sort((a, b) => {
+//         const priceA = parseInt(a.price.replace(/[^\d]/g, ""), 10);
+//         const priceB = parseInt(b.price.replace(/[^\d]/g, ""), 10);
+//         return priceA - priceB; // Low to High
+//       });
+//     }
+//   }
+
+//   displayProducts(filteredProducts);
+// }
+
+
 function filterProducts(category) {
   let filteredProducts;
 
+  function extractPrice(priceString) {
+    const match = priceString.match(/₹\s*([\d,]+)/);
+    return match ? parseInt(match[1].replace(/,/g, ""), 10) : 0;
+  }
+
   if (category === "All") {
-    // Default original order
     filteredProducts = [...products];
 
   } else {
@@ -849,7 +956,6 @@ function filterProducts(category) {
       product.category.includes(category)
     );
 
-    // Only sort LOW to HIGH for budget categories
     const budgetCategories = [
       "Under 500",
       "Under 500 to 1000",
@@ -860,16 +966,15 @@ function filterProducts(category) {
 
     if (budgetCategories.includes(category)) {
       filteredProducts.sort((a, b) => {
-        const priceA = parseInt(a.price.replace(/[^\d]/g, ""), 10);
-        const priceB = parseInt(b.price.replace(/[^\d]/g, ""), 10);
-        return priceA - priceB; // Low to High
+        const priceA = extractPrice(a.price);
+        const priceB = extractPrice(b.price);
+        return priceA - priceB;
       });
     }
   }
 
   displayProducts(filteredProducts);
 }
-
 
 
 
