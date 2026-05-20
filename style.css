@@ -1023,7 +1023,6 @@ span.b2b {
     height: auto;
     margin-bottom: 0px;
   }
-  
 }
 
 .cu {
@@ -1035,24 +1034,21 @@ span.b2b {
   padding: 14px 14px 12px;
 }
 
+.cu-label {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  /* text-transform: uppercase; */
+  color: var(--new);
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: center;
+}
 
-
-
-
-.cu-label{
-    font-size: 18px;
-    letter-spacing: 0.5px;
-    color: var(--new);
-    font-weight: 600;
-    margin-bottom: 10px;
-    text-align: center;
-  }
-
-  @media screen and (max-width: 768px){
+@media screen and (max-width: 768px){
     .cu-label {
       font-size: 14px;   
     } 
-  }
+}
 
 .divider-custom {
     width: 100px;
@@ -1101,15 +1097,28 @@ span.b2b {
   
   .cu-moq{
     font-size: 14px;
+    min-height: 50px;
+  }
+
+  .cu-price {
+    margin: 10px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  .cu-price span {
+    font-size: 12px;
   }
 }
-
 
 @media screen and (max-width: 768px){
   
   .custom-head h2 {
     font-size: 28px;
   };
+
+  
+
 
 
 }
@@ -1216,14 +1225,6 @@ span.b2b {
     margin: 0px;
   }
 
-  .cu-price {
-    margin: 10px;
-    font-size: 14px;
-    line-height: 16px;
-  }
-  .cu-price span {
-    font-size: 11px;
-  }  
 
 }
 
