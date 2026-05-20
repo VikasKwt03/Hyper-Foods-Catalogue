@@ -842,8 +842,9 @@ function displayProducts(filteredProducts) {
       ? `href="${product.link}" target="_blank" rel="noopener"`
       : "";
 
+    const stripHtml = s => s.replace(/<[^>]*>/g, '').trim();
     const waText = encodeURIComponent(
-      `*${product.title}*\n${product.price}\n${product.description}\n${product.weight || ''}\n${product.sku || ''}\n${product.moq || ''}${product.link ? '\n' + product.link : ''}`
+      `*${product.title}*\n${stripHtml(product.price)}\n${product.description}\n${product.weight || ''}\n${product.sku || ''}\n${stripHtml(product.moq || '')}${product.link ? '\n' + product.link : ''}`
     );
     const waUrl = `https://wa.me/?text=${waText}`;
 
