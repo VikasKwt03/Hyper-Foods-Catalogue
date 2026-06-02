@@ -9,6 +9,59 @@ function getBudgetCategory(price) {
 }
 
 const products = [
+
+  {
+    title: "Courtyard Collection - 250 Grams Set of 2 Dry Fruits",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹649")],
+    // price: "₹499",
+    price: "<span class=b2b>Bulk Price</span> ₹649/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
+    description: "Description : Cashews 125gm & Almonds 125gm.",
+    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1780399764/COURTYARD-PK02-CaAl-SMALL_q77plq.jpg",
+    link: "https://www.rawfruit.com/products/courtyard-collection-250-grams-set-of-2-dry-fruits",
+    weight: "Product Net Weight : 250gm",
+    sku: "SKU : COURTYARD-PK02-CaAl-SMALL"
+  },
+
+  {
+    title: "Courtyard Collection - 375 Grams Set of 3 Dry Fruits",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
+    // price: "₹499",
+    price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
+    description: "Description : Cashews 125gm, Almonds 125gm & Raisins 125gm.",
+    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1780399776/COURTYARD-PK03-CaAlRa-SMALL_uxkut0.jpg",
+    link: "https://www.rawfruit.com/products/courtyard-collection-375-grams-set-of-3-dry-fruits",
+    weight: "Product Net Weight : 375gm",
+    sku: "SKU : COURTYARD-PK03-CaAlRa-SMALL"
+  },
+
+  {
+    title: "Courtyard Collection - 495 Grams Set of 4 Dry Fruits",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
+    // price: "₹499",
+    price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
+    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm & Pistachios 120gm.",
+    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1780399797/COURTYARD-PK04-CaAlPiRa-SMALL_lfvv0q.jpg",
+    link: "https://www.rawfruit.com/products/courtyard-collection-495-grams-set-of-4-dry-fruits",
+    weight: "Product Net Weight : 495gm",
+    sku: "SKU : COURTYARD-PK04-CaAlPiRa-SMALL"
+  },
+
+  {
+    title: "Courtyard Collection - 745 Grams Set of 6 Dry Fruits",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1879")],
+    // price: "₹499",
+    price: "<span class=b2b>Bulk Price</span> ₹1879/-",
+    moq : "<span class=b2b>MOQ = 120 Box</span>",
+    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm, Walnuts 100gm & Dates 150gm.",
+    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1780399820/COURTYARD-PK06-CaAlRaWaPiDa-SMALL_b1dvad.jpg",
+    link: "https://www.rawfruit.com/products/courtyard-collection-745-grams-set-of-6-dry-fruits",
+    weight: "Product Net Weight : 745gm",
+    sku: "SKU : COURTYARD-PK06-CaAlRaWaPiDa-SMALL"
+  },
+  
   {
     title: "Almonds, Cashews Gift Pack",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
