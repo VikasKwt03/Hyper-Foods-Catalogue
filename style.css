@@ -977,6 +977,7 @@ span.b2b {
   transition: transform 0.4s ease;
 }
 
+
 .collection-img-logo {
   width: 68%;
   height: auto;
@@ -1712,15 +1713,21 @@ a.product-card:hover {
   .grid-3 {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 18px;
+    gap: 10px;
   }
 
   
   .card-img-1 { order: 1; }
-  .card:nth-of-type(4) { order: 2; }
+  .card:nth-of-type(4) { 
+    order: 2; 
+    margin-bottom: 20px;
+  }
 
   .card-img-2 { order: 3; }
-  .card:nth-of-type(5) { order: 4; }
+  .card:nth-of-type(5) { 
+    order: 4;
+    margin-bottom: 20px;
+  }
 
   .card-img-3 { order: 5; }
   .card:nth-of-type(6) { order: 6; }
