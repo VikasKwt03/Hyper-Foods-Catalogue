@@ -630,7 +630,7 @@ const products = [
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Blueberry Jam Cookies 100gm, Dry Masala Samosa 160gm, Crunchy Pita Chips 100gm, Fruit & Nut Chocolate Bar 50gm.",
-    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778055566/DCIM.-2_copy_llessu.jpg",
+    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1780572413/HOT-HLFKG-HMPR-TRAY21_jmbltj.jpg",
     link: "https://www.rawfruit.com/products/chocolate-bar-snacks-with-cookies-gift-hamper",
     weight: "Product Net Weight : 500gm Approx",
     sku: "SKU : HOT-HLFKG-HMPR-TRAY21"
