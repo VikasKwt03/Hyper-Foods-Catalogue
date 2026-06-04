@@ -75,17 +75,17 @@ const products = [
     sku: "SKU : RF-PET-PK02-CaAl-SMALL"
   },
 
-  {
-    title: "Roasted Dry Fruits Gift Pack",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹599")],
-    price: "<span class=b2b>Bulk Price</span> ₹599/-</span>",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Black Pepper Cashews 125gm and Peri Peri Almonds 125gm.",
-    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965329/DSC-1577_copy_w0vyrw.jpg",
-    link: "https://www.rawfruit.com/products/roasted-cashew-almonds",
-    weight: "Product Net Weight : 250gm",
-    sku: "SKU : RF-PET-PK02-BpcPpa-SMALL"
-  },
+  // {
+  //   title: "Roasted Dry Fruits Gift Pack",
+  //   category: ["Dry Fruits Gift Pack", getBudgetCategory("₹599")],
+  //   price: "<span class=b2b>Bulk Price</span> ₹599/-</span>",
+  //   moq : "<span class=b2b>MOQ = 50 Box</span>",
+  //   description: "Description : Black Pepper Cashews 125gm and Peri Peri Almonds 125gm.",
+  //   image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777965329/DSC-1577_copy_w0vyrw.jpg",
+  //   link: "https://www.rawfruit.com/products/roasted-cashew-almonds",
+  //   weight: "Product Net Weight : 250gm",
+  //   sku: "SKU : RF-PET-PK02-BpcPpa-SMALL"
+  // },
 
   {
     title: "Pack of 3 Dry Fruits Gift Pack",
@@ -296,17 +296,17 @@ const products = [
     sku: "SKU : RF-G-KNJI-CaAlRaPi-BASIC"
   },
 
-  {
-    title: "Roasted Cashews Gift Pack",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
-    price: "<span class=b2b>Bulk Price</span> ₹799/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Black Pepper & Mint Cashews, African Peri Peri Cashews & Himalayan Pink Salt Cashews 100gm Each.",
-    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979808/Rakhi_2026_Content_Design_c98cmd.jpg",
-    link: "https://www.rawfruit.com/products/roasted-cashews-dry-fruits-gifts-hamper",
-    weight: "Product Net Weight : 300gm",
-    sku: "SKU : RF-TNTBX-PK03-BpcPpcPsc"
-  },
+  // {
+  //   title: "Roasted Cashews Gift Pack",
+  //   category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
+  //   price: "<span class=b2b>Bulk Price</span> ₹799/-",
+  //   moq : "<span class=b2b>MOQ = 50 Box</span>",
+  //   description: "Description : Black Pepper & Mint Cashews, African Peri Peri Cashews & Himalayan Pink Salt Cashews 100gm Each.",
+  //   image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1777979808/Rakhi_2026_Content_Design_c98cmd.jpg",
+  //   link: "https://www.rawfruit.com/products/roasted-cashews-dry-fruits-gifts-hamper",
+  //   weight: "Product Net Weight : 300gm",
+  //   sku: "SKU : RF-TNTBX-PK03-BpcPpcPsc"
+  // },
 
   {
     title: "Assorted Dry Fruits Delight Pack",
