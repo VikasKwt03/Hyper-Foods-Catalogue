@@ -11,7 +11,7 @@ function getBudgetCategory(price) {
 const products = [
 
   {
-    title: "Courtyard Collection - 250 Grams Set of 2 Dry Fruits",
+    title: "Courtyard Collection - 250g Set of 2 Dry Fruits",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
     // price: "₹499",
     price: "<span class=b2b>Bulk Price</span> ₹699/-",
@@ -24,7 +24,7 @@ const products = [
   },
 
   {
-    title: "Courtyard Collection - 375 Grams Set of 3 Dry Fruits",
+    title: "Courtyard Collection - 375g Set of 3 Dry Fruits",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹849")],
     // price: "₹499",
     price: "<span class=b2b>Bulk Price</span> ₹849/-",
@@ -37,7 +37,7 @@ const products = [
   },
 
   {
-    title: "Courtyard Collection - 495 Grams Set of 4 Dry Fruits",
+    title: "Courtyard Collection - 495g Set of 4 Dry Fruits",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1399")],
     // price: "₹499",
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
@@ -50,7 +50,7 @@ const products = [
   },
 
   {
-    title: "Courtyard Collection - 745 Grams Set of 6 Dry Fruits",
+    title: "Courtyard Collection - 745g Set of 6 Dry Fruits",
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1999")],
     // price: "₹499",
     price: "<span class=b2b>Bulk Price</span> ₹1999/-",
@@ -65,9 +65,9 @@ const products = [
 
   {
     title: "Bouquet Bloom Dry Fruits Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1599")],
+    category: ["Assorted Hampers", getBudgetCategory("₹1699")],
     // price: "₹499",
-    price: "<span class=b2b>Bulk Price</span> ₹1599/-",
+    price: "<span class=b2b>Bulk Price</span> ₹1699/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226306/255_cl2xa4.jpg",
@@ -102,8 +102,8 @@ const products = [
 
   {
     title: "Gift From The Orchards Dry Fruits Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹349")],
-    price: "<span class=b2b>Bulk Price</span> ₹349/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹449")],
+    price: "<span class=b2b>Bulk Price</span> ₹449/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226872/317_hscmm0.jpg",
@@ -114,8 +114,8 @@ const products = [
 
   {
     title: "Gift From The Orchards Brittle Gift Pack",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹299")],
-    price: "<span class=b2b>Bulk Price</span> ₹299/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹349")],
+    price: "<span class=b2b>Bulk Price</span> ₹349/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226888/332_wwh6hp.jpg",
@@ -137,9 +137,9 @@ const products = [
   },
 
   {
-    title: "Gift From The Orchards Dry Fruits with Sweets",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
-    price: "<span class=b2b>Bulk Price</span> ₹499/-",
+    title: "Gift From The Orchards Dry Fruits with Brittles",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹549")],
+    price: "<span class=b2b>Bulk Price</span> ₹549/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787227550/303_cmdi4d.jpg",
@@ -150,8 +150,8 @@ const products = [
 
   {
     title: "Four Seasons Pack of 3 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹849")],
-    price: "<span class=b2b>Bulk Price</span> ₹849/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹899")],
+    price: "<span class=b2b>Bulk Price</span> ₹899/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 100g, Almonds 100g, Pistachios 100g.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787227775/B0H9SBX1CS.MAIN_asnpud.jpg",
@@ -162,8 +162,8 @@ const products = [
 
   {
     title: "Four Seasons Pack of 4 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹949")],
-    price: "<span class=b2b>Bulk Price</span> ₹949/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
+    price: "<span class=b2b>Bulk Price</span> ₹999/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 100g, Almonds 100g, Raisins 100g, Pistachios 100g.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787227788/B0H9SGLHT1.MAIN_ic2pxa.jpg",
@@ -186,8 +186,8 @@ const products = [
 
   {
     title: "New Blossom Dry Fruits with Brittle Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹649")],
-    price: "<span class=b2b>Bulk Price</span> ₹649/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
+    price: "<span class=b2b>Bulk Price</span> ₹699/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 100g, Almonds 100g, Peanut Crush Brittle 100g.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787228538/350_xlu82r.jpg",
@@ -198,8 +198,8 @@ const products = [
 
   {
     title: "New Blossom Dry Fruits with Sweets Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
-    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1399")],
+    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Peanut Crush Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango)",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787228560/1_epg9eh.jpg",
@@ -210,8 +210,8 @@ const products = [
 
   {
     title: "Snacks Cookies Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹749")],
-    price: "<span class=b2b>Bulk Price</span> ₹749/-",
+    category: ["Assorted Hampers", getBudgetCategory("₹899")],
+    price: "<span class=b2b>Bulk Price</span> ₹899/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cinnamon Spiced Sticks Snacks 100g, Dates & Honey Cookies 100g, Nuts & Dates Bar 160g, Coffee Bloom Solid Perfume.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787229269/150_s9ggww.jpg",
@@ -222,8 +222,8 @@ const products = [
 
   {
     title: "Snacks Chocolate Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹549")],
-    price: "<span class=b2b>Bulk Price</span> ₹549/-",
+    category: ["Assorted Hampers", getBudgetCategory("₹699")],
+    price: "<span class=b2b>Bulk Price</span> ₹699/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Biscotti Pizza Mini Snacks 100g, Mocha Almond Dragees 90g, Oud & Amber Solid Perfume.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787229519/121_xabvts.jpg",
@@ -233,7 +233,7 @@ const products = [
   },
 
   {
-    title: "Snacks Chocolate Gift Hamper",
+    title: "Snacks, Chocolate Gift Hamper",
     category: ["Assorted Hampers", getBudgetCategory("₹599")],
     price: "<span class=b2b>Bulk Price</span> ₹599/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
