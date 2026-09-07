@@ -201,7 +201,7 @@ const products = [
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Peanut Crush Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango)",
+    description: "Description : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango)",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787228560/1_epg9eh.jpg",
     link: "https://www.rawfruit.com/products/celebration-hamper-with-dry-fruits-brittles-sweets",
     weight: "Product Net Weight : 560g",
