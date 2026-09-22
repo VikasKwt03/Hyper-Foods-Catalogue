@@ -1746,3 +1746,14 @@ a.product-card:hover {
 }
 
 
+p.product-shipping {
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+@media (max-width: 768px){
+  p.product-shipping {
+    font-size: 10px;
+    margin-bottom: 10px;
+  }
+}
