@@ -15,10 +15,11 @@ const products = [
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
     price: "<span class=b2b>Bulk Price</span> ₹499/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 125gm & Almonds 125gm and A Diwali Greeting Card.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793521/1_tsquuc.jpg",
+    description: "<b>Description</b> : Cashews 125gm & Almonds 125gm and A Diwali Greeting Card.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071307/B0CHYBZGS1.MAIN_bcfinj.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-250-grams-set-of-2-dry-fruits",
-    weight: "Product Net Weight : 250g",
+    weight: "Product Net Weight : 250g Approx",
     sku: "SKU : COURTYARD-PK02-CaAl-SMALL"
   },
 
@@ -27,8 +28,9 @@ const products = [
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹649")],
     price: "<span class=b2b>Bulk Price</span> ₹649/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 125gm, Almonds 125gm & Raisins 125gm and A Diwali Greeting Card.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793527/2_bpa1np.jpg",
+    description: "<b>Description</b> : Cashews 125gm, Almonds 125gm & Raisins 125gm and A Diwali Greeting Card.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071323/B0HHSBV2L7.MAIN_ceec5t.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-375-grams-set-of-3-dry-fruits",
     weight: "Product Net Weight : 375g",
     sku: "SKU : COURTYARD-PK03-CaAlRa-SMALL"
@@ -39,8 +41,9 @@ const products = [
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm & Pistachios 120gm and A Diwali Greeting Card.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793528/3_ch313o.jpg",
+    description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm & Pistachios 120gm and A Diwali Greeting Card.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071338/B0CHY9V8XF.MAIN_mlknjp.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-495-grams-set-of-4-dry-fruits",
     weight: "Product Net Weight : 495g",
     sku: "SKU : COURTYARD-PK04-CaAlPiRa-SMALL"
@@ -48,11 +51,12 @@ const products = [
 
   {
     title: "Courtyard Collection - 745g Set of 6 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1499")],
-    price: "<span class=b2b>Bulk Price</span> ₹1499/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1399")],
+    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm, Walnuts 100gm & Dates 150gm and A Diwali Greeting Card.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793528/4_oex6ke.jpg",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071352/B0HHRZJN4S.MAIN_phmbva.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-745-grams-set-of-6-dry-fruits",
     weight: "Product Net Weight : 745g",
     sku: "SKU : COURTYARD-PK06-CaAlRaWaPiDa-SMALL"
@@ -61,96 +65,51 @@ const products = [
 
   {
     title: "Bouquet Bloom Dry Fruits Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1699")],
-    // price: "₹499",
-    price: "<span class=b2b>Bulk Price</span> ₹1699/-",
+    category: ["Assorted Hampers", getBudgetCategory("₹1299")],
+    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226306/255_cl2xa4.jpg",
-    link: "https://www.rawfruit.com/products/premium-dry-fruits-gift-hamper",
+    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790072936/Amazon_Diwali_New_Listings_2026_7_lvqbde.jpg",
+    // link: "https://www.rawfruit.com/products/premium-dry-fruits-gift-hamper",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-BQT-BLOM-HMPR1"
   },
 
   {
     title: "Dry Fruits Hamper 495 Grams",
-    category: ["Assorted Hampers", getBudgetCategory("₹1399")],
-    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    category: ["Assorted Hampers", getBudgetCategory("₹1299")],
+    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm.",
+    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226580/Amazon_Rakhi_Product_Listings_2026_6_xezet8.jpg",
-    link: "https://www.rawfruit.com/products/healthy-dry-fruits-gift-hamper-for-festive-gifting",
+    // link: "https://www.rawfruit.com/products/healthy-dry-fruits-gift-hamper-for-festive-gifting",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-ONEKG-HMPR-TRAY43"
   },
 
   {
     title: "Dry Fruits Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1399")],
-    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    category: ["Assorted Hampers", getBudgetCategory("₹1299")],
+    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm.",
+    description: "Description : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226581/Amazon_Rakhi_Product_Listings_2026_7_rugjnb.jpg",
-    link: "https://www.rawfruit.com/products/dry-fruits-hamper-gift-pack",
+    // link: "https://www.rawfruit.com/products/dry-fruits-hamper-gift-pack",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-ONEKG-HMPR-TRAY44"
   },
 
   {
-    title: "Gift From The Orchards Dry Fruits Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹449")],
-    price: "<span class=b2b>Bulk Price</span> ₹449/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, Peanut Crush Brittle 100g, A Tea Light Candle and A Metal Tea Light Holder.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793529/7_sqgkis.jpg",
-    // link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-gift-pack",
-    weight: "Product Net Weight : 220g",
-    sku: "SKU : GFORCH-GREEN-HAMPER1"
-  },
-
-  {
-    title: "Gift From The Orchards Brittle Gift Pack",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹349")],
-    price: "<span class=b2b>Bulk Price</span> ₹349/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226888/332_wwh6hp.jpg",
-    link: "https://www.rawfruit.com/products/gifts-from-the-orchards-brittles-gift-pack",
-    weight: "Product Net Weight : 200g",
-    sku: "SKU : GFORCH-GREEN-HAMPER2"
-  },
-
-  {
-    title: "Gift From The Orchards Dry Fruits with Sweets",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹449")],
-    price: "<span class=b2b>Bulk Price</span> ₹449/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Kaju Katli 100g, Almonds 30g, Raisins 30g.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226899/50_yfkqzv.jpg",
-    link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-sweets-gift-pack",
-    weight: "Product Net Weight : 160g",
-    sku: "SKU : GFORCH-GREEN-HAMPER3"
-  },
-
-  {
-    title: "Gift From The Orchards Dry Fruits with Brittles",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹549")],
-    price: "<span class=b2b>Bulk Price</span> ₹549/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, A Diwali Greeting Card, Set of 4 Tea light Candles and Set of 2 Metal Tea Light Holder.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793538/8_bz3vnp.jpg",
-    // link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-brittles-gift-pack",
-    weight: "Product Net Weight : 320g",
-    sku: "SKU : GFORCH-BLUE-HAMPER1"
-  },
-
-  {
     title: "Four Seasons Pack of 3 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹899")],
-    price: "<span class=b2b>Bulk Price</span> ₹899/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
+    price: "<span class=b2b>Bulk Price</span> ₹699/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 100g, Almonds 100g, Pistachios 100g and A Diwali Greeting Card.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793528/5_zjphbd.jpg",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071399/B0FS1SD8LC.MAIN_xpvi2f.jpg",
     // link: "https://www.rawfruit.com/products/dry-fruits-gift-pack-cashews-almonds-pistachios",
     weight: "Product Net Weight : 300g",
     sku: "SKU : RF-G-SEASON-AlCaPi"
@@ -158,120 +117,133 @@ const products = [
 
   {
     title: "Four Seasons Pack of 4 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
-    price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
+    price: "<span class=b2b>Bulk Price</span> ₹799/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : Cashews 100g, Almonds 100g, Raisins 100g, Pistachios 100g and A Diwali Greeting Card.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1789793527/6_monlte.jpg",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071415/B0FS1MNRXF.MAIN_tnwizo.jpg",
     // link: "https://www.rawfruit.com/products/assorted-dry-fruits-celebration-box",
     weight: "Product Net Weight : 400g",
     sku: "SKU : RF-P-SEASON-CaAlRaPi"
   },
 
+
   {
-    title: "New Blossom Dry Fruits Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
-    price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    title: "Gift From The Orchards Dry Fruits Hamper",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹399")],
+    price: "<span class=b2b>Bulk Price</span> ₹399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 100g, Almonds 100g, Pistachios 80g.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787228510/385_iffjs3.jpg",
-    link: "https://www.rawfruit.com/products/festive-celebration-dry-fruits-gift-pack",
-    weight: "Product Net Weight : 280g",
-    sku: "SKU : RF-BLOSSOM-SML-CaAlPi"
+    description: "Description : Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, Peanut Crush Brittle 100g, A Tea Light Candle and A Metal Tea Light Holder.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071427/B0HHRYDDXX.MAIN_bhjxrr.jpg",
+    // link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-gift-pack",
+    weight: "Product Net Weight : 220g",
+    sku: "SKU : GFORCH-GREEN-HAMPER1"
   },
 
   {
-    title: "New Blossom Dry Fruits with Brittle Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
-    price: "<span class=b2b>Bulk Price</span> ₹699/-",
+    title: "Gift From The Orchards Dry Fruits with Brittles",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
+    price: "<span class=b2b>Bulk Price</span> ₹499/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 100g, Almonds 100g, Peanut Crush Brittle 100g.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787228538/350_xlu82r.jpg",
-    link: "https://www.rawfruit.com/products/festive-dry-fruits-gift-pack-with-brittles",
+    description: "Description : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, A Diwali Greeting Card, Set of 4 Tea light Candles and Set of 2 Metal Tea Light Holder.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071373/B0HHS2TQCP.MAIN_ws62k4.jpg",
+    // link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-brittles-gift-pack",
+    weight: "Product Net Weight : 320g",
+    sku: "SKU : GFORCH-BLUE-HAMPER1"
+  },
+
+
+  {
+    title: "New Blossom Dry Fruits with Brittle Hamper",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹599")],
+    price: "<span class=b2b>Bulk Price</span> ₹599/-",
+    moq : "<span class=b2b>MOQ = 50 Box</span>",
+    description: "Description : Cashews 100g, Almonds 100g, Peanut Crush Brittle 100g & A Diwali Greeting Card, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071765/Amazon_Diwali_New_Listings_2026_5_qagexd.jpg",
+    // link: "https://www.rawfruit.com/products/festive-dry-fruits-gift-pack-with-brittles",
     weight: "Product Net Weight : 300g",
     sku: "SKU : RF-BLOSSOM-SML-HMPR1"
   },
 
   {
     title: "New Blossom Dry Fruits with Sweets Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1399")],
-    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
+    price: "<span class=b2b>Bulk Price</span> ₹999/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango)",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787228560/1_epg9eh.jpg",
-    link: "https://www.rawfruit.com/products/celebration-hamper-with-dry-fruits-brittles-sweets",
+    description: "Description : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango) & A Diwali Greeting Card, Set of 6 Tea Light Candles with Set of 2 Metal Tea Light Holder, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071935/Amazon_Diwali_New_Listings_2026_4_wcgjoz.jpg",
+    // link: "https://www.rawfruit.com/products/celebration-hamper-with-dry-fruits-brittles-sweets",
     weight: "Product Net Weight : 560g",
     sku: "SKU : RF-BLOSSOM-BIG -HMPR1"
   },
 
   {
-    title: "Snacks Cookies Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹899")],
-    price: "<span class=b2b>Bulk Price</span> ₹899/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Cinnamon Spiced Sticks Snacks 100g, Dates & Honey Cookies 100g, Nuts & Dates Bar 160g, Coffee Bloom Solid Perfume.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787229269/150_s9ggww.jpg",
-    link: " ",
-    weight: "Product Net Weight : 370g",
-    sku: "SKU : HOT-JOYBOX-HAMPER6"
-  },
-
-  {
     title: "Snacks Chocolate Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹699")],
-    price: "<span class=b2b>Bulk Price</span> ₹699/-",
+    category: ["Assorted Hampers", getBudgetCategory("₹649")],
+    price: "<span class=b2b>Bulk Price</span> ₹649/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Biscotti Pizza Mini Snacks 100g, Mocha Almond Dragees 90g, Oud & Amber Solid Perfume.",
+    description: "Description : Belgian Chocochip Cookies 100g, Mocha Almonds Dragees 90g, A Diwali Greeting Card, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, Set of 4 Tea Light Candles with Set of 2 Metal Tea Light Holder and Set of 2 Festive Glow Scented Candles in Sandalwood and Tuberose Fragrances.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787229519/121_xabvts.jpg",
-    link: " ",
+    // link: " ",
     weight: "Product Net Weight : 200g",
     sku: "SKU : HOT-JOYBOX-HAMPER7"
   },
 
   {
-    title: "Snacks, Chocolate Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹599")],
-    price: "<span class=b2b>Bulk Price</span> ₹599/-",
+    title: "Snacks Cookies Gift Hamper",
+    category: ["Assorted Hampers", getBudgetCategory("₹799")],
+    price: "<span class=b2b>Bulk Price</span> ₹799/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Roasted Cashew Cookies 100g, Coconut Crunch Brittle 100g, Twisted Wafer Rolls 90g, Rain Forest Solid Perfume",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787229868/111_svq4gz.jpg",
-    link: " ",
-    weight: "Product Net Weight : 300g",
-    sku: "SKU : HOT-JOYBOX-HAMPER8"
+    description: "Description : Dates & Honey Cookies 100g, Kaju Katli 100g, Cashews 30g, Raisins 30g, A Diwali Greeting Card, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, Set of 6 Tea Light Candles with Set of 2 Metal Tea Light Holder and Set of 2 Festive Glow Scented Candles in Sandalwood and Tuberose Fragrances.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790072422/ChatGPT_Image_Sep_22_2026_03_49_40_PM_z5ehiy.png",
+    // link: " ",
+    weight: "Product Net Weight : 370g",
+    sku: "SKU : HOT-JOYBOX-HAMPER6"
   },
+
 
   {
     title: "Sweets & Savoury Gift Pack",
-    category: ["Sweets Gift Pack", getBudgetCategory("₹699")],
-    price: "<span class=b2b>Bulk Price</span> ₹699/-",
+    category: ["Sweets Gift Pack", getBudgetCategory("₹499")],
+    price: "<span class=b2b>Bulk Price</span> ₹499/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Kaju Katli 200g, Dry Masala Kachori 150g.",
+    description: "Description : Kaju Katli 200g, Dry Masala Kachori 150g & A Diwali Greeting Card.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230046/B0CBG1DT99.PT03_z77pul.jpg",
-    link: "https://www.rawfruit.com/products/sweets-with-savoury-gift-pack",
+    // link: "https://www.rawfruit.com/products/sweets-with-savoury-gift-pack",
     weight: "Product Net Weight : 350gm",
     sku: "SKU : HOT-COMBO2-KkKc"
   },
 
   {
     title: "Sweets & Savoury Gift Pack",
-    category: ["Sweets Gift Pack", getBudgetCategory("₹749")],
-    price: "<span class=b2b>Bulk Price</span> ₹749/-",
+    category: ["Sweets Gift Pack", getBudgetCategory("₹599")],
+    price: "<span class=b2b>Bulk Price</span> ₹599/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Kaju Katli 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g.",
+    description: "Description : Kaju Katli 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g & A Diwali Greeting Card.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230178/B0D8QHCX64.PT04_canm86.jpg",
-    link: "https://www.rawfruit.com/products/kaju-katli-with-savoury-sweets-gift-pack",
+    // link: "https://www.rawfruit.com/products/kaju-katli-with-savoury-sweets-gift-pack",
     weight: "Product Net Weight : 500gm",
     sku: "SKU : HOT-COMBO3-KkKcNm"
   },
 
   {
     title: "Sweets & Savoury Gift Pack",
-    category: ["Sweets Gift Pack", getBudgetCategory("₹999")],
-    price: "<span class=b2b>Bulk Price</span> ₹999/-",
+    category: ["Sweets Gift Pack", getBudgetCategory("₹799")],
+    price: "<span class=b2b>Bulk Price</span> ₹799/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Kaju Katli 200g, Besan Laddu 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g.",
+    description: "Description : Kaju Katli 200g, Besan Laddu 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g & A Diwali Greeting Card.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230200/B0CD4F5LM2.PT03_q9f2f9.jpg",
-    link: "https://www.rawfruit.com/products/sweets-savoury-gift-pack",
+    // link: "https://www.rawfruit.com/products/sweets-savoury-gift-pack",
     weight: "Product Net Weight : 700gm",
     sku: "SKU : HOT-COMBO4-KkBlKcNm"
   },
@@ -282,8 +254,9 @@ const products = [
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "Description : 2 Pcs Each of Dry Fruit Ladoo, Mango Fudge, Rose Petal Ladoo, Kiwi Tarts, Rose Marzipan, HazelNut Chocolate Dipped Figs, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778045801/DSC-3148-Edit_nnsqtt.jpg",
-    link: "https://www.rawfruit.com/products/diwali-sweets-gift-pack-assorted-sweets-and-dry-fruits",
+    // link: "https://www.rawfruit.com/products/diwali-sweets-gift-pack-assorted-sweets-and-dry-fruits",
     weight: "Product Net Weight : 450gm",
     sku: "SKU : HOT-PS-24-12-ASORT-DRYFT"
   },
@@ -291,12 +264,13 @@ const products = [
 
   {
     title: "Grand Celebration Festive Gift Hamper",
-    category: ["Premium Gifts", getBudgetCategory("₹1499")],
-    price: "<span class=b2b>Bulk Price</span> ₹1499/-",
+    category: ["Premium Gifts", getBudgetCategory("₹1599")],
+    price: "<span class=b2b>Bulk Price</span> ₹1599/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "Description : Kaju Katli 200g, Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Artisanal Date Pralines 120g, Nuts & Dates Bar 160g, Twisted Wafer Rolls 90g, Unicorn Garden Coffee Almond Milk Chocolate Bar 50g.",
+    description: "Description : Kaju Katli 200g, Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Artisanal Date Pralines 120g, Nuts & Dates Bar 160g, Twisted Wafer Rolls 90g, and Unicorn Garden Coffee Almond Milk Chocolate Bar 50g, A Diwali Greeting Card, Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Set of 2 Seasons Bloom Scented Candles in Golden Amber and Midnight Jasmine Fragrances.",
+    shipping :"<b>Bulk Shipping</b> (Single Location : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230431/B0HD7XKRHY.MAIN_autblt.jpg",
-    link: " ",
+    // link: " ",
     weight: "Product Net Weight : 500gm Approx",
     sku: "SKU : HOT-GRANDCELEBRATION-HAMPER1"
   },
@@ -341,7 +315,7 @@ function displayProducts(filteredProducts) {
 
     const stripHtml = s => s.replace(/<[^>]*>/g, '').trim();
     const waText = encodeURIComponent(
-      `*${product.title}*\n${stripHtml(product.price)}\n${product.description}\n${product.weight || ''}\n${product.sku || ''}\n${stripHtml(product.moq || '')}${product.link ? '\n' + product.link : ''}`
+      `*${product.title}*\n${stripHtml(product.price)}\n${product.description}${product.shipping}\n${product.weight || ''}\n${product.sku || ''}\n${stripHtml(product.moq || '')}${product.link ? '\n' + product.link : ''}`
     );
     const waUrl = `https://wa.me/?text=${waText}`;
 
@@ -361,6 +335,10 @@ function displayProducts(filteredProducts) {
 
           <p class="product-description">
             ${product.description}
+          </p>
+
+          <p class="product-shipping">
+            ${product.shipping}
           </p>
 
           <p class="product-weight">
