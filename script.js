@@ -56,7 +56,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm, Walnuts 100gm & Dates 150gm and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071352/B0HHRZJN4S.MAIN_phmbva.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790164353/B0HHRZJN4S.MAIN_v89e7c.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-745-grams-set-of-6-dry-fruits",
     weight: "Product Net Weight : 745g",
     sku: "SKU : COURTYARD-PK06-CaAlRaWaPiDa-SMALL"
@@ -70,7 +70,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790072936/Amazon_Diwali_New_Listings_2026_7_lvqbde.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790164376/B0FPD5DQ2J.MAIN_iwc1fy.jpg",
     // link: "https://www.rawfruit.com/products/premium-dry-fruits-gift-hamper",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-BQT-BLOM-HMPR1"
