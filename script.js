@@ -216,7 +216,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Kaju Katli 200g, Dry Masala Kachori 150g & A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230046/B0CBG1DT99.PT03_z77pul.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790141322/ChatGPT_Image_Sep_23_2026_10_55_20_AM_t9fdln.png",
     // link: "https://www.rawfruit.com/products/sweets-with-savoury-gift-pack",
     weight: "Product Net Weight : 350gm",
     sku: "SKU : HOT-COMBO2-KkKc"
@@ -229,7 +229,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Kaju Katli 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g & A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230178/B0D8QHCX64.PT04_canm86.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790141323/ChatGPT_Image_Sep_23_2026_10_55_28_AM_lmpbcq.png",
     // link: "https://www.rawfruit.com/products/kaju-katli-with-savoury-sweets-gift-pack",
     weight: "Product Net Weight : 500gm",
     sku: "SKU : HOT-COMBO3-KkKcNm"
@@ -242,7 +242,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Kaju Katli 200g, Besan Laddu 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g & A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230200/B0CD4F5LM2.PT03_q9f2f9.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790141322/ChatGPT_Image_Sep_23_2026_10_55_32_AM_edrvn7.png",
     // link: "https://www.rawfruit.com/products/sweets-savoury-gift-pack",
     weight: "Product Net Weight : 700gm",
     sku: "SKU : HOT-COMBO4-KkBlKcNm"
