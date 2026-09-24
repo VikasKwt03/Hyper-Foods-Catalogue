@@ -267,9 +267,9 @@ const products = [
     category: ["Premium Gifts", getBudgetCategory("₹1599")],
     price: "<span class=b2b>Bulk Price</span> ₹1599/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "<b>Description</b> : Kaju Katli 200g, Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Artisanal Date Pralines 120g, Nuts & Dates Bar 160g, Twisted Wafer Rolls 90g, and Unicorn Garden Coffee Almond Milk Chocolate Bar 50g, A Diwali Greeting Card, Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Set of 2 Seasons Bloom Scented Candles in Golden Amber and Midnight Jasmine Fragrances.",
+    description: "<b>Description</b> : Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Artisanal Date Pralines 120g, Nuts & Dates Bar 160g, Twisted Wafer Rolls 90g, and Unicorn Garden Coffee Almond Milk Chocolate Bar 50g, A Diwali Greeting Card, Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Set of 2 Seasons Bloom Scented Candles in Golden Amber and Midnight Jasmine Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787230431/B0HD7XKRHY.MAIN_autblt.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790244405/150_zcx0pf.jpg",
     // link: " ",
     weight: "Product Net Weight : 500gm Approx",
     sku: "SKU : HOT-GRANDCELEBRATION-HAMPER1"
