@@ -189,7 +189,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Belgian Chocochip Cookies 100g, Mocha Almonds Dragees 90g, A Diwali Greeting Card, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, Set of 4 Tea Light Candles with Set of 2 Metal Tea Light Holder and Set of 2 Festive Glow Scented Candles in Sandalwood and Tuberose Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787229519/121_xabvts.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790330632/Amazon_Diwali_New_Listings_2026p_wqsqre.jpg",
     // link: " ",
     weight: "Product Net Weight : 200g",
     sku: "SKU : HOT-JOYBOX-HAMPER7"
