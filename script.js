@@ -255,7 +255,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : 2 Pcs Each of Dry Fruit Ladoo, Mango Fudge, Rose Petal Ladoo, Kiwi Tarts, Rose Marzipan, HazelNut Chocolate Dipped Figs, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dlqwp6v6u/image/upload/v1778045801/DSC-3148-Edit_nnsqtt.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790330867/Amazon_Diwali_New_Listings_2026_16_jv8g7c.jpg",
     // link: "https://www.rawfruit.com/products/diwali-sweets-gift-pack-assorted-sweets-and-dry-fruits",
     weight: "Product Net Weight : 450gm",
     sku: "SKU : HOT-PS-24-12-ASORT-DRYFT"
