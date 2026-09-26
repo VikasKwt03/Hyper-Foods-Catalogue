@@ -277,7 +277,7 @@ const products = [
 
   {
     title: "Bombay Circus Festive Gift Hamper",
-    category: ["Premium Gifts","Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
+    category: ["Premium Gifts", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Pizza Mini Snacks 100g, Belgian Chocochip Cookies 100g, Dry Masala Kachori 150g, Artisanal Date Pralines 120g , Tiramisu Bonbites Dragees 50g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Fragrances of the Temples Candles in Sandalwood & Saffron and Tuberose & Jasmine Fragrances.",
