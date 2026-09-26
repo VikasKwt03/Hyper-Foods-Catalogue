@@ -12,7 +12,7 @@ const products = [
 
   {
     title: "Courtyard Collection - 250g Set of 2 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹599")],
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
     price: "<span class=b2b>Bulk Price</span> ₹499/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm & Almonds 125gm and A Diwali Greeting Card.",
