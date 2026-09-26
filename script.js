@@ -266,13 +266,26 @@ const products = [
     title: "Grand Celebration Festive Gift Hamper",
     category: ["Premium Gifts", getBudgetCategory("₹1599")],
     price: "<span class=b2b>Bulk Price</span> ₹1599/-",
-    moq : "<span class=b2b>MOQ = 50 Box</span>",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Artisanal Date Pralines 120g, Nuts & Dates Bar 160g, Twisted Wafer Rolls 90g, and Unicorn Garden Coffee Almond Milk Chocolate Bar 50g, A Diwali Greeting Card, Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Set of 2 Seasons Bloom Scented Candles in Golden Amber and Midnight Jasmine Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790244405/150_zcx0pf.jpg",
     // link: " ",
     weight: "Product Net Weight : 500gm Approx",
     sku: "SKU : HOT-GRANDCELEBRATION-HAMPER1"
+  },
+
+  {
+    title: "Bombay Circus Festive Gift Hamper",
+    category: ["Premium Gifts", getBudgetCategory("₹1299")],
+    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
+    description: "<b>Description</b> : Pizza Mini Snacks 100g, Belgian Chocochip Cookies 100g, Dry Masala Kachori 150g, Artisanal Date Pralines 120g , Tiramisu Bonbites Dragees 50g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Fragrances of the Temples Candles in Sandalwood & Saffron and Tuberose & Jasmine Fragrances.",
+    shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790411535/Amazon_Diwali_New_Listings_2026_17_cax9ij.jpg",
+    // link: " ",
+    weight: "Product Net Weight : 500gm Approx",
+    sku: "SKU : HOT-CIRCUS-HAMPER1-DIWALI26"
   },
 
 
