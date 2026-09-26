@@ -65,7 +65,7 @@ const products = [
 
   {
     title: "Bouquet Bloom Dry Fruits Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1299")],
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
@@ -78,7 +78,7 @@ const products = [
 
   {
     title: "Dry Fruits Hamper 495 Grams",
-    category: ["Assorted Hampers", getBudgetCategory("₹1299")],
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
@@ -91,7 +91,7 @@ const products = [
 
   {
     title: "Dry Fruits Gift Hamper",
-    category: ["Assorted Hampers", getBudgetCategory("₹1299")],
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
