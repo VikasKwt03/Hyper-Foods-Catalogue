@@ -131,7 +131,7 @@ const products = [
 
   {
     title: "Gift From The Orchards Dry Fruits Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹399")],
+    category: ["Dry Fruits Gift Pack", "Assorted Hampers", getBudgetCategory("₹399")],
     price: "<span class=b2b>Bulk Price</span> ₹399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, Peanut Crush Brittle 100g, A Tea Light Candle and A Metal Tea Light Holder.",
@@ -144,7 +144,7 @@ const products = [
 
   {
     title: "Gift From The Orchards Dry Fruits with Brittles",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹499")],
+    category: ["Dry Fruits Gift Pack", "Assorted Hampers", getBudgetCategory("₹499")],
     price: "<span class=b2b>Bulk Price</span> ₹499/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, A Diwali Greeting Card, Set of 4 Tea light Candles and Set of 2 Metal Tea Light Holder.",
@@ -158,7 +158,7 @@ const products = [
 
   {
     title: "New Blossom Dry Fruits with Brittle Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹599")],
+    category: ["Dry Fruits Gift Pack", "Assorted Hampers", getBudgetCategory("₹599")],
     price: "<span class=b2b>Bulk Price</span> ₹599/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Peanut Crush Brittle 100g & A Diwali Greeting Card, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights.",
@@ -171,7 +171,7 @@ const products = [
 
   {
     title: "New Blossom Dry Fruits with Sweets Hamper",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹999")],
+    category: ["Dry Fruits Gift Pack", "Assorted Hampers", getBudgetCategory("₹999")],
     price: "<span class=b2b>Bulk Price</span> ₹999/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango) & A Diwali Greeting Card, Set of 6 Tea Light Candles with Set of 2 Metal Tea Light Holder, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights.",
@@ -286,6 +286,32 @@ const products = [
     // link: " ",
     weight: "Product Net Weight : 500gm Approx",
     sku: "SKU : HOT-CIRCUS-HAMPER1-DIWALI26"
+  },
+
+  {
+    title: "Season's Joy Festive Gift Hamper",
+    category: ["Premium Gifts", getBudgetCategory("₹1299")],
+    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
+    description: "<b>Description</b> : Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Mocha Almond Dragees 90g, Coconut Crunch Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
+    shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790578178/Amazon_Diwali_New_Listings_2026-purple_ktsa1z.jpg",
+    // link: " ",
+    weight: "Product Net Weight : 1200gm Approx",
+    sku: "SKU : HOT-SEASONSlJOY-PURPLE-DIWALI"
+  },
+
+  {
+    title: "Season's Joy Festive Gift Hamper",
+    category: ["Premium Gifts", getBudgetCategory("₹1299")],
+    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
+    description: "<b>Almond Biscotti Cookies 100g, Pizza Mini Snacks 100g, Tiramisu Bonbites Dragees 50g, Peanut Crush Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
+    shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790578177/Amazon_Diwali_New_Listings_2026-pink_dwj78l.jpg",
+    // link: " ",
+    weight: "Product Net Weight : 1200gm Approx",
+    sku: "SKU : HOT-SEASONSlJOY-PINK-DIWALI"
   },
 
 
