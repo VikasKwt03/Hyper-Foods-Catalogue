@@ -202,7 +202,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Dates & Honey Cookies 100g, Kaju Katli 100g, Cashews 30g, Raisins 30g, A Diwali Greeting Card, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, Set of 6 Tea Light Candles with Set of 2 Metal Tea Light Holder and Set of 2 Festive Glow Scented Candles in Sandalwood and Tuberose Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790072422/ChatGPT_Image_Sep_22_2026_03_49_40_PM_z5ehiy.png",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790592650/B0HJ21D49N.MAIN_bdyv5p.jpg",
     // link: " ",
     weight: "Product Net Weight : 370g",
     sku: "SKU : HOT-JOYBOX-HAMPER6"
