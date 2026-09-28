@@ -290,28 +290,28 @@ const products = [
 
   {
     title: "Season's Joy Festive Gift Hamper",
-    category: ["Premium Gifts", getBudgetCategory("₹1299")],
-    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    category: ["Premium Gifts", getBudgetCategory("₹1399")],
+    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Mocha Almond Dragees 90g, Coconut Crunch Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790578178/Amazon_Diwali_New_Listings_2026-purple_ktsa1z.jpg",
     // link: " ",
     weight: "Product Net Weight : 1200gm Approx",
-    sku: "SKU : HOT-SEASONSlJOY-PURPLE-DIWALI"
+    sku: "SKU : HOT-SEASONS-JOY-PURPLE-DIWALI"
   },
 
   {
     title: "Season's Joy Festive Gift Hamper",
-    category: ["Premium Gifts", getBudgetCategory("₹1299")],
-    price: "<span class=b2b>Bulk Price</span> ₹1299/-",
+    category: ["Premium Gifts", getBudgetCategory("₹1399")],
+    price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 25 Box</span>",
-    description: "<b>Almond Biscotti Cookies 100g, Pizza Mini Snacks 100g, Tiramisu Bonbites Dragees 50g, Peanut Crush Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
+    description: "<b>Description</b> : Almond Biscotti Cookies 100g, Pizza Mini Snacks 100g, Tiramisu Bonbites Dragees 50g, Peanut Crush Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790578177/Amazon_Diwali_New_Listings_2026-pink_dwj78l.jpg",
     // link: " ",
     weight: "Product Net Weight : 1200gm Approx",
-    sku: "SKU : HOT-SEASONSlJOY-PINK-DIWALI"
+    sku: "SKU : HOT-SEASONS-JOY-PINK-DIWALI"
   },
 
 
