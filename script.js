@@ -314,6 +314,32 @@ const products = [
     sku: "SKU : HOT-SEASONS-JOY-PINK-DIWALI"
   },
 
+  {
+    title: "Celebrations Festive Gift Hamper",
+    category: ["Premium Gifts", getBudgetCategory("₹1199")],
+    price: "<span class=b2b>Bulk Price</span> ₹1199/-",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
+    description: "<b>Description</b> : Kaju Katli 200g, Cheese Cracker Snacks 100g, Roasted Cashew Cookies 100g, Coconut Crunch Brittle 100g, A Diwali Greeting Card, Set of 6 Tea Light Candles, Set of 2 Metal Tea Light Holder, Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, A Little Magic Scented Candles.",
+    shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790584092/Amazon_Diwali_New_Listings_2026_20_cobrs9.jpg",
+    // link: " ",
+    weight: "Product Net Weight : 900gm Approx",
+    sku: "SKU : HOT-CELEBRATION-JOY-HAMPER"
+  },
+
+  {
+    title: "Momentz Festive Gift Hamper",
+    category: ["Premium Gifts", getBudgetCategory("₹849")],
+    price: "<span class=b2b>Bulk Price</span> ₹849/-",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
+    description: "<b>Description</b> : Almond Biscotti Cookies 100g, Cinnamon Sticks Snacks 100g, Tiramisu Bonbites Dragees 50g,  A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles, Set of 2 Metal Tea Light Holder, Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 2 Fragrances of the Temples Candles.",
+    shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790584087/Amazon_Diwali_New_Listings_2026_19_ikkep0.jpg",
+    // link: " ",
+    weight: "Product Net Weight : 900gm Approx",
+    sku: "SKU : HOT-MOMENTZ-JOY-HAMPER"
+  },
+
 
 
 
