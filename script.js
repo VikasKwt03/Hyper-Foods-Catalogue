@@ -253,12 +253,12 @@ const products = [
     category: ["Sweets Gift Pack", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "<b>Description</b> : 2 Pcs Each of Dry Fruit Ladoo, Mango Fudge, Rose Petal Ladoo, Kiwi Tarts, Rose Marzipan, HazelNut Chocolate Dipped Figs, Cashews 75gm, Almonds 75gm and Pistachios 60gm.",
+    description: "<b>Description</b> : Pista Pishori Laddu 4pcs, Rose Petal Laddu 4pcs, Hazelnut Chocolate Laddu 4pcs, Cashews 75gm, Almonds 75gm and Raisins 75gm.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790330867/Amazon_Diwali_New_Listings_2026_16_jv8g7c.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930340/1_1_c9vfov.jpg",
     // link: "https://www.rawfruit.com/products/diwali-sweets-gift-pack-assorted-sweets-and-dry-fruits",
     weight: "Product Net Weight : 450gm",
-    sku: "SKU : HOT-PS-24-12-ASORT-DRYFT"
+    sku: "SKU : HOT-PS-24-12-ASORT-LADDU"
   },
 
 
