@@ -17,7 +17,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm & Almonds 125gm and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071307/B0CHYBZGS1.MAIN_bcfinj.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930845/1_2_guuhse.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-250-grams-set-of-2-dry-fruits",
     weight: "Product Net Weight : 250g Approx",
     sku: "SKU : COURTYARD-PK02-CaAl-SMALL"
@@ -30,7 +30,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm & Raisins 125gm and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071323/B0HHSBV2L7.MAIN_ceec5t.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930864/B0HHSBV2L7.MAIN_xyshbr.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-375-grams-set-of-3-dry-fruits",
     weight: "Product Net Weight : 375g",
     sku: "SKU : COURTYARD-PK03-CaAlRa-SMALL"
@@ -43,7 +43,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm & Pistachios 120gm and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071338/B0CHY9V8XF.MAIN_mlknjp.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930876/B0CHY9V8XF.MAIN_mh5eyu.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-495-grams-set-of-4-dry-fruits",
     weight: "Product Net Weight : 495g",
     sku: "SKU : COURTYARD-PK04-CaAlPiRa-SMALL"
@@ -56,7 +56,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm, Walnuts 100gm & Dates 150gm and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790164353/B0HHRZJN4S.MAIN_v89e7c.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930888/B0HHRZJN4S.MAIN_ychwpl.jpg",
     // link: "https://www.rawfruit.com/products/courtyard-collection-745-grams-set-of-6-dry-fruits",
     weight: "Product Net Weight : 745g",
     sku: "SKU : COURTYARD-PK06-CaAlRaWaPiDa-SMALL"
@@ -70,7 +70,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790164376/B0FPD5DQ2J.MAIN_iwc1fy.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930779/Amazon_Diwali_New_Listings_2026_27_vajkj1.jpg",
     // link: "https://www.rawfruit.com/products/premium-dry-fruits-gift-hamper",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-BQT-BLOM-HMPR1"
@@ -136,7 +136,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, Peanut Crush Brittle 100g, A Tea Light Candle and A Metal Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071427/B0HHRYDDXX.MAIN_bhjxrr.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930907/B0HHRYDDXX.MAIN_b6l7t6.jpg",
     // link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-gift-pack",
     weight: "Product Net Weight : 220g",
     sku: "SKU : GFORCH-GREEN-HAMPER1"
@@ -149,7 +149,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, Cashews 30g, Almonds 30g, Raisins 30g, Pistachios 30g, A Diwali Greeting Card, Set of 4 Tea light Candles and Set of 2 Metal Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071373/B0HHS2TQCP.MAIN_ws62k4.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930896/B0HHS2TQCP.MAIN_mfiwop.jpg",
     // link: "https://www.rawfruit.com/products/gifts-from-the-orchards-dry-fruits-brittles-gift-pack",
     weight: "Product Net Weight : 320g",
     sku: "SKU : GFORCH-BLUE-HAMPER1"
@@ -163,7 +163,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Peanut Crush Brittle 100g & A Diwali Greeting Card, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071765/Amazon_Diwali_New_Listings_2026_5_qagexd.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930950/B0HHRZZKPV.MAIN_fh2ezg.jpg",
     // link: "https://www.rawfruit.com/products/festive-dry-fruits-gift-pack-with-brittles",
     weight: "Product Net Weight : 300g",
     sku: "SKU : RF-BLOSSOM-SML-HMPR1"
@@ -176,7 +176,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Coconut Crunch Brittle 100g, Chocolate Peanut Butter Brittle 100g, 9 Sweets Bites(3 Pieces Each Flavour, Chocolate, Coffee & Mango) & A Diwali Greeting Card, Set of 6 Tea Light Candles with Set of 2 Metal Tea Light Holder, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071935/Amazon_Diwali_New_Listings_2026_4_wcgjoz.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790930938/B0HHRVX555.MAIN_zrd0df.jpg",
     // link: "https://www.rawfruit.com/products/celebration-hamper-with-dry-fruits-brittles-sweets",
     weight: "Product Net Weight : 560g",
     sku: "SKU : RF-BLOSSOM-BIG -HMPR1"
