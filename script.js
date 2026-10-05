@@ -109,7 +109,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Pistachios 100g and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071399/B0FS1SD8LC.MAIN_xpvi2f.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791188319/B0FS1SD8LC.MAIN_xl0e1r.jpg",
     // link: "https://www.rawfruit.com/products/dry-fruits-gift-pack-cashews-almonds-pistachios",
     weight: "Product Net Weight : 300g",
     sku: "SKU : RF-G-SEASON-AlCaPi"
@@ -122,7 +122,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Raisins 100g, Pistachios 100g and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790071415/B0FS1MNRXF.MAIN_tnwizo.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791188321/B0FS1MNRXF.MAIN_pkjkjd.jpg",
     // link: "https://www.rawfruit.com/products/assorted-dry-fruits-celebration-box",
     weight: "Product Net Weight : 400g",
     sku: "SKU : RF-P-SEASON-CaAlRaPi"
