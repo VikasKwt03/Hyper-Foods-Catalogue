@@ -189,7 +189,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Belgian Chocochip Cookies 100g, Mocha Almonds Dragees 90g, A Diwali Greeting Card, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, Set of 4 Tea Light Candles with Set of 2 Metal Tea Light Holder and Set of 2 Festive Glow Scented Candles in Sandalwood and Tuberose Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790330632/Amazon_Diwali_New_Listings_2026p_wqsqre.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791269438/B0HJ1XG6GL.MAIN_mb3e5o.jpg",
     // link: " ",
     weight: "Product Net Weight : 200g",
     sku: "SKU : HOT-JOYBOX-HAMPER7"
@@ -202,7 +202,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Dates & Honey Cookies 100g, Kaju Katli 100g, Cashews 30g, Raisins 30g, A Diwali Greeting Card, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, Set of 6 Tea Light Candles with Set of 2 Metal Tea Light Holder and Set of 2 Festive Glow Scented Candles in Sandalwood and Tuberose Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790592650/B0HJ21D49N.MAIN_bdyv5p.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791269448/B0HJ21D49N.MAIN_ii8nvv.jpg",
     // link: " ",
     weight: "Product Net Weight : 370g",
     sku: "SKU : HOT-JOYBOX-HAMPER6"
@@ -269,7 +269,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Artisanal Date Pralines 120g, Nuts & Dates Bar 160g, Twisted Wafer Rolls 90g, and Unicorn Garden Coffee Almond Milk Chocolate Bar 50g, A Diwali Greeting Card, Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Set of 2 Seasons Bloom Scented Candles in Golden Amber and Midnight Jasmine Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790244405/150_zcx0pf.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791269548/B0HJ2HSRYR.MAIN_fojchf.jpg",
     // link: " ",
     weight: "Product Net Weight : 500gm Approx",
     sku: "SKU : HOT-GRANDCELEBRATION-HAMPER1"
@@ -295,7 +295,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Roasted Cashew Cookies 100g, Cheese Cracker Snacks 100g, Mocha Almond Dragees 90g, Coconut Crunch Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790578178/Amazon_Diwali_New_Listings_2026-purple_ktsa1z.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791269742/1_3_tubz3r.jpg",
     // link: " ",
     weight: "Product Net Weight : 1200gm Approx",
     sku: "SKU : HOT-SEASONS-JOY-PURPLE-DIWALI"
@@ -308,7 +308,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Almond Biscotti Cookies 100g, Pizza Mini Snacks 100g, Tiramisu Bonbites Dragees 50g, Peanut Crush Brittle 100g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Ramayana Theme Dwaar Toran, Set of 6 Tea Light Candles , Set of 2 Metal Tea Light Holder , Set of 2 Paper Lotus Lanterns, Set of 2 Electric Tea Lights, Set of 4 Phool Bagh Scented Candles.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790578177/Amazon_Diwali_New_Listings_2026-pink_dwj78l.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791269585/1_vrakzt.jpg",
     // link: " ",
     weight: "Product Net Weight : 1200gm Approx",
     sku: "SKU : HOT-SEASONS-JOY-PINK-DIWALI"
