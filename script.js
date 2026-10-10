@@ -104,8 +104,8 @@ const products = [
 
   {
     title: "Four Seasons Pack of 3 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹699")],
-    price: "<span class=b2b>Bulk Price</span> ₹699/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹749")],
+    price: "<span class=b2b>Bulk Price</span> ₹749/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Pistachios 100g and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
@@ -117,8 +117,8 @@ const products = [
 
   {
     title: "Four Seasons Pack of 4 Dry Fruits",
-    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹799")],
-    price: "<span class=b2b>Bulk Price</span> ₹799/-",
+    category: ["Dry Fruits Gift Pack", getBudgetCategory("₹849")],
+    price: "<span class=b2b>Bulk Price</span> ₹849/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 100g, Almonds 100g, Raisins 100g, Pistachios 100g and A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
