@@ -289,6 +289,19 @@ const products = [
   },
 
   {
+    title: "Carnival Festive Gift Hamper",
+    category: ["Premium Gifts", getBudgetCategory("₹1999")],
+    price: "<span class=b2b>Bulk Price</span> ₹1999/-",
+    moq : "<span class=b2b>MOQ = 25 Box</span>",
+    description: "<b>Description</b> : 100g Tiramisu Bonbites Dragees, 100g Roasted Cashew Cookies, 100g Almond Biscotti Cookies, 100g Cheese Cracker Snacks, 100g Cinnamon Sticks Snacks, 96g Brownie Brittle, 200g Kaju Katli, 30g Cashews, 30g Almonds, 30g Raisins, and 30g Pistachios, A Diwali Greeting Card, Set of 6 Tea Light Candles with 2 Metal Tea Light Holders, A Ramayana Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and A Little Magic Scented Candle in Peony Petals Fragrances.",
+    shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791610906/B0HJ29XZ6G.MAIN_vuglg4.jpg",
+    // link: " ",
+    weight: "Product Net Weight : 1400gm Approx",
+    sku: "SKU : HOT-CARNIVAL-HAMPER1-DIWALI26"
+  },
+
+  {
     title: "Season's Joy Festive Gift Hamper",
     category: ["Premium Gifts", getBudgetCategory("₹1399")],
     price: "<span class=b2b>Bulk Price</span> ₹1399/-",
