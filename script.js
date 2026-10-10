@@ -271,7 +271,7 @@ const products = [
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791269548/B0HJ2HSRYR.MAIN_fojchf.jpg",
     // link: " ",
-    weight: "Product Net Weight : 500gm Approx",
+    weight: "Product Net Weight : 1400gm Approx",
     sku: "SKU : HOT-GRANDCELEBRATION-HAMPER1"
   },
 
@@ -284,7 +284,7 @@ const products = [
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790411535/Amazon_Diwali_New_Listings_2026_17_cax9ij.jpg",
     // link: " ",
-    weight: "Product Net Weight : 500gm Approx",
+    weight: "Product Net Weight : 1000gm Approx",
     sku: "SKU : HOT-CIRCUS-HAMPER1-DIWALI26"
   },
 
