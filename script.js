@@ -94,7 +94,7 @@ const products = [
     category: ["Dry Fruits Gift Pack", getBudgetCategory("₹1299")],
     price: "<span class=b2b>Bulk Price</span> ₹1299/-",
     moq : "<span class=b2b>MOQ = 50 Box</span>",
-    description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
+    description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Walnuts 100gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
     image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792662560/1_qwj94i.jpg",
     // link: "https://www.rawfruit.com/products/dry-fruits-hamper-gift-pack",
