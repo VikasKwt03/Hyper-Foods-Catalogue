@@ -83,7 +83,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226580/Amazon_Rakhi_Product_Listings_2026_6_xezet8.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792662556/B0DJBGT96W.MAIN_cuonqo.jpg",
     // link: "https://www.rawfruit.com/products/healthy-dry-fruits-gift-hamper-for-festive-gifting",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-ONEKG-HMPR-TRAY43"
@@ -96,7 +96,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Cashews 125gm, Almonds 125gm, Raisins 125gm, Pistachios 120gm & A Diwali Greeting Card, Set of 6 Tea Light Candle & A Tea Light Holder.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1787226581/Amazon_Rakhi_Product_Listings_2026_7_rugjnb.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792662560/1_qwj94i.jpg",
     // link: "https://www.rawfruit.com/products/dry-fruits-hamper-gift-pack",
     weight: "Product Net Weight : 495g",
     sku: "SKU : HOT-ONEKG-HMPR-TRAY44"
@@ -216,7 +216,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Kaju Katli 200g, Dry Masala Kachori 150g & A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 40/- Per Unit, <br> Air (Individual Unit) : 70/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790141322/ChatGPT_Image_Sep_23_2026_10_55_20_AM_t9fdln.png",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792662587/B0CBG1DT99.MAIN_xhpng4.jpg",
     // link: "https://www.rawfruit.com/products/sweets-with-savoury-gift-pack",
     weight: "Product Net Weight : 350gm",
     sku: "SKU : HOT-COMBO2-KkKc"
@@ -229,7 +229,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Kaju Katli 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g & A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790141323/ChatGPT_Image_Sep_23_2026_10_55_28_AM_lmpbcq.png",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792662580/B0D8QHCX64.MAIN_q61uy3.jpg",
     // link: "https://www.rawfruit.com/products/kaju-katli-with-savoury-sweets-gift-pack",
     weight: "Product Net Weight : 500gm",
     sku: "SKU : HOT-COMBO3-KkKcNm"
@@ -242,7 +242,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 50 Box</span>",
     description: "<b>Description</b> : Kaju Katli 200g, Besan Laddu 200g, Dry Masala Kachori 150g, Navaratan Mix Namkeen 150g & A Diwali Greeting Card.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 80/- Per Unit, <br> Air (Individual Unit) : 140/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790141322/ChatGPT_Image_Sep_23_2026_10_55_32_AM_edrvn7.png",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792662589/B0HLKWJHL1.MAIN_q1hjer.jpg",
     // link: "https://www.rawfruit.com/products/sweets-savoury-gift-pack",
     weight: "Product Net Weight : 700gm",
     sku: "SKU : HOT-COMBO4-KkBlKcNm"
