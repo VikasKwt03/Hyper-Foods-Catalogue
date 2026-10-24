@@ -282,7 +282,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : Pizza Mini Snacks 100g, Belgian Chocochip Cookies 100g, Dry Masala Kachori 150g, Artisanal Date Pralines 120g , Tiramisu Bonbites Dragees 50g, Cashews, Almonds, Raisins, Pistachios (30g Each), A Diwali Greeting Card, A Set of 2 Metal Tea Light Holder with Set of 6 Tea Light Candles, A Ramayan Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and Fragrances of the Temples Candles in Sandalwood & Saffron and Tuberose & Jasmine Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1790411535/Amazon_Diwali_New_Listings_2026_17_cax9ij.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792830210/B0HJ255525.MAIN_zspjyp.jpg",
     // link: " ",
     weight: "Product Net Weight : 1000gm Approx",
     sku: "SKU : HOT-CIRCUS-HAMPER1-DIWALI26"
@@ -295,7 +295,7 @@ const products = [
     moq : "<span class=b2b>MOQ = 25 Box</span>",
     description: "<b>Description</b> : 100g Tiramisu Bonbites Dragees, 100g Roasted Cashew Cookies, 100g Almond Biscotti Cookies, 100g Cheese Cracker Snacks, 100g Cinnamon Sticks Snacks, 96g Brownie Brittle, 200g Kaju Katli, 30g Cashews, 30g Almonds, 30g Raisins, and 30g Pistachios, A Diwali Greeting Card, Set of 6 Tea Light Candles with 2 Metal Tea Light Holders, A Ramayana Theme Dwaar Toran, Set of 2 Paper Lotus Lanterns with 2 Electric Tea Lights, and A Little Magic Scented Candle in Peony Petals Fragrances.",
     shipping :"<b>Bulk Shipping</b> (Single Location) : Included,<br> Surface (Individual Unit) : 120/- Per Unit, <br> Air (Individual Unit) : 210/- Per Unit.",
-    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1791610906/B0HJ29XZ6G.MAIN_vuglg4.jpg",
+    image: "https://res.cloudinary.com/dvjw5xjds/image/upload/v1792830200/B0HJ29XZ6G.MAIN_bh5c6g.jpg",
     // link: " ",
     weight: "Product Net Weight : 1400gm Approx",
     sku: "SKU : HOT-CARNIVAL-HAMPER1-DIWALI26"
